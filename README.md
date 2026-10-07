@@ -7,11 +7,11 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md)<br>
-Latest reviewed update: [October 3, 2026](updates/2026-10-03-public-status.md)<br>
+Latest reviewed update: [October 7, 2026](updates/2026-10-07-public-status.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHITECTURE_OVERVIEW.md) · [Documentation map](docs/README.md)
 
-> **Rename note:** AlgoSphere is now **MIOIQ**. It is the same continuing project with the same research history and evidence base. Historical files and screenshots may still use the former name where that is required for provenance.
+> **Rename note:** AlgoSphere is now **MIOIQ**. It is the same continuing project with the same research history and evidence base. Historical technical names may remain where required for compatibility or provenance.
 
 > **Public repository note:** this repository documents the project and selected evidence. It is not a download of the private MIOIQ trading application.
 
@@ -49,15 +49,14 @@ A newer model does not become active simply because it is newer. Promotion is in
 |---|---|
 | Research & engineering | Active |
 | Paper / Shadow | Active / fail-closed |
-| Paper V2 context path | Fresh runtime context observed; V2 superiority not proven |
-| Evidence memory path | Natural linked learning evidence observed; read-projection work remains open |
-| Historical performance reconciliation | Reviewed historical interpretation reconciled; not a current profit claim |
-| External AI analysis | Traceability/funnel understanding improved; profitability not proven |
-| Demo invite + registration | **Reviewed E2E passed for this scoped path** |
+| Runtime | Scoped current evidence; full product acceptance open |
+| Paper V2 / learning | Learning context active; causal economic uplift not proven |
+| External AI analysis | Current provider path evidenced; profitability not proven |
+| Demo invite + registration | Scoped path previously proven |
 | One-session product parity | **Open** |
 | Full current WebUI acceptance | **Open** |
-| Research storage | Bounded logical compaction progressing; physical shrink still open |
-| Multi-venue direction | Contracts/isolation progressing; account-specific cost truth still open |
+| Research storage | Database growth re-observed; root cause / physical shrink open |
+| Multi-venue cost truth | Current contract progressed; complete natural cost truth open |
 | Demo / Testnet execution E2E | **Not proven** |
 | Release / distribution | **Open** |
 | Live trading | Disabled |
@@ -70,7 +69,7 @@ For detail, see [CURRENT_STATUS.md](CURRENT_STATUS.md).
 
 MIOIQ publishes selected reviewed project status, research summaries, verification results, evidence records, development history and known limitations.
 
-Negative results remain visible. Technical completion is not presented as proof of model quality, profitability or live readiness.
+Negative results and counterexamples remain visible. Technical completion is not presented as proof of model quality, profitability or live readiness.
 
 ## Public / private boundary
 
@@ -91,7 +90,7 @@ See [Public Repository Scope](docs/project/PUBLIC_REPOSITORY_SCOPE.md) and [Lice
 | Project direction | [docs/project/PROJECT_DIRECTION.md](docs/project/PROJECT_DIRECTION.md) |
 | Public repository scope | [docs/project/PUBLIC_REPOSITORY_SCOPE.md](docs/project/PUBLIC_REPOSITORY_SCOPE.md) |
 | Current status | [CURRENT_STATUS.md](CURRENT_STATUS.md) |
-| Latest reviewed update | [October 3 update](updates/2026-10-03-public-status.md) |
+| Latest reviewed update | [October 7 update](updates/2026-10-07-public-status.md) |
 | Roadmap | [docs/progress/ROADMAP.md](docs/progress/ROADMAP.md) |
 | Completed engineering work | [docs/progress/COMPLETED_WORK.md](docs/progress/COMPLETED_WORK.md) |
 | Project history | [docs/project/PROJECT_HISTORY.md](docs/project/PROJECT_HISTORY.md) |
