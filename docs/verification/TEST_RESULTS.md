@@ -1,39 +1,38 @@
 # Test results and verification limits
 
-Reviewed: **2026-10-03**
+Reviewed: **2026-10-07**
 
-This page summarizes selected public verification evidence. It does not certify profitability, live readiness or a globally clean private test suite.
+This page summarizes selected public verification evidence. It intentionally omits private test names, internal IDs, exact paths, schemas and implementation fingerprints.
 
 ## Latest reviewed verification
 
 Current reviewed evidence supports:
 
-- fresh market-context behavior for the configured research scope
-- scoped service-health/singleton observations
-- focused WebUI/filter/responsive/identity contracts
-- a bounded browser confirmation for pagination and global symbol filtering
-- natural linked learning evidence in the current Paper/V2 path
-- further historical-lineage/replay repair in the external AI-analysis path
-- bounded logical storage compaction and a scoped maintenance pause/resume path
-- source/test modularisation work in Research and WebUI reader boundaries
-
-Exact internal test IDs, counts, build identifiers, private schema details, file paths and component names are intentionally not published because they add implementation fingerprinting without improving public scientific interpretation.
+- scoped adoption of the current execution-cost contract
+- fail-closed handling where natural cost evidence is incomplete
+- selected current WebUI/filter/responsive/browser evidence
+- a new WebUI refresh-consistency counterexample that keeps whole-product acceptance open
+- stronger decision/outcome/learning lineage and current learning-context consumption
+- a current successful external AI-analysis provider cycle
+- continued bounded code-clean progress
+- read-only evidence of renewed database growth and a separate slow-query boundary
 
 ## Still open / not proven
 
-The checks above do **not** prove:
+The evidence above does **not** prove:
 
-- one-session product parity across all protected surfaces
-- a complete independent all-service lifecycle
+- complete all-service runtime acceptance
 - full current WebUI/Cockpit acceptance
-- broad responsive/browser/device acceptance
+- causal economic benefit from the learning loop
 - V2 superiority over V1
-- measurable economic improvement from the learning path
+- a fair matched A/B/C economic ranking
 - external AI-analysis profitability
+- complete natural execution-cost truth
 - physical database shrink
-- account-specific connected execution cost truth
-- connected Demo/Testnet end-to-end execution/recovery
-- reproducible release/update/rollback acceptance
+- database-growth root cause
+- connected Demo/Testnet E2E execution/recovery
+- current release-manifest parity
+- reproducible installer/update/rollback acceptance
 - live readiness
 
 ## Evidence layers
