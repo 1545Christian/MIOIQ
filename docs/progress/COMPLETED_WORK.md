@@ -1,76 +1,67 @@
 # Documented engineering work
 
-Reviewed through **2026-10-03**.
+Reviewed through **2026-10-07**.
 
-Items below are engineering results, not claims of profitability or live readiness.
+Items below are engineering results, not claims of profitability, Demo readiness or live readiness.
 
-## October 2–3 — reviewed progress
+## October 4–7 — reviewed progress
 
-### Runtime
+### Runtime / cost contract
 
-- Fresh market-context evidence was observed for the currently configured research set after a stale-context issue was isolated and corrected.
-- Scoped service-health and singleton checks passed for the reviewed snapshot.
-- Complete independent all-service lifecycle acceptance remains open.
+- A scoped current execution-cost contract was adopted in the reviewed runtime boundary.
+- The reviewed boundary no longer uses the older fixed-cost fallback.
+- Unknown natural cost evidence remains fail-closed.
+- Full runtime/product acceptance remains open.
 
 ### WebUI
 
-- Trade visibility, filtering, responsive-layout and identity contracts received further source/regression work.
-- A bounded browser check confirmed current pagination and global symbol filtering on the loaded build.
-- Full current WebUI, performance, learning-view and broader device/browser acceptance remain open.
+- Earlier filtering, pagination and responsive work remains valid for its scoped checks.
+- New browser counterevidence exposed a refresh/snapshot consistency problem: visible rows can change while refresh is pending and later return.
+- Atomic refresh consistency, user-state preservation and final served-build/browser acceptance remain open.
 
-### Paper V2 and learning
+### Learning
 
-- Fresh natural current context cycles were observed after the latest correction.
-- Natural current learning deltas are being stored.
-- The reviewed V2 evidence reader now prefers valid linked evidence and excludes orphaned contributions.
-- V2 superiority, economic selection improvement and durable predictive uplift remain unproven.
+- Current decision context can consume learning information.
+- Decision/outcome/learning lineage has continued to improve.
+- A complete natural same-identity chain demonstrating beneficial later after-cost decision impact remains unproven.
 
 ### External AI analysis
 
-- Historical lineage and replay handling were repaired further.
-- The decision-to-order funnel is better explained at a high level.
-- Current reviewed outcomes do not support a positive profitability claim; cost coverage and natural post-fix evidence remain incomplete.
+- The newer analysis path has current loaded evidence.
+- A regular post-update provider call completed and produced a valid set of NO_TRADE decisions.
+- Mature outcomes, trade funnel effectiveness, learning impact and profitability remain open.
+
+### Research / ML
+
+- Research diagnostics continue to produce useful negative and comparative evidence.
+- Current A/B/C results are not yet a fair matched economic comparison.
+- No model winner, promotion or profitability claim is made.
 
 ### Storage
 
-- Additional bounded logical compaction preserved evidence references.
-- A short controlled maintenance pause/resume path was demonstrated.
-- Physical database shrink remains open.
+- Read-only measurements confirm renewed database growth after earlier logical compaction.
+- A slow query boundary is measured, but database-growth root cause is still unknown.
+- Physical shrink and no-loss reorganisation remain open.
 
-### Multi-venue and costs
+### Codebase hygiene / release
 
-- Public/source-level fee estimation was narrowed to the scope actually supported by evidence.
-- Account-specific fees and complete connected per-trade cost truth remain unknown without authorised private-account evidence.
-- Connected multi-venue production readiness is not claimed.
-
-### Release / distribution
-
-- Manifest/source-path drift was confirmed as a release blocker.
-- Reproducible installer/update/rollback acceptance remains open.
-
-### Codebase hygiene
-
-- Research and WebUI reader responsibilities were moved further toward clearer owner boundaries.
-- Focused regression evidence exists for those source changes.
-- Loaded-product parity, release parity and full codebase-cleanliness remain open.
-
-### Documentation
-
-- Current project documentation is being separated more clearly from historical provenance.
-- New public status text continues to use MIOIQ while preserving AlgoSphere only where historical context requires it.
+- Additional bounded code-clean source blocks were completed.
+- Remaining cleanup/release gates are still open.
+- The release manifest remains stale after later source changes.
+- No global release parity or product acceptance is claimed.
 
 ## Interpretation
 
-A focused green suite proves only the tested contract.
+A source fix is not loaded-runtime proof.
 
-A source-level fix proves code state, not loaded-runtime behavior.
+Loaded runtime is not economic proof.
 
-A working registration flow does not prove connected Demo execution.
+A successful provider call is not a profitable trade.
 
-A fresh runtime context does not prove economic improvement.
+Learning context reuse is not causal learning uplift.
 
-Logical compaction does not prove physical database shrink.
+Logical cleanup is not physical shrink.
 
-A public fee source does not prove account-specific costs.
+A scoped browser PASS is not whole-product UI acceptance.
 
-A browser-correct screen does not prove profitability.
+Code cleanup is not release readiness.
