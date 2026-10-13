@@ -1,6 +1,13 @@
 # Current public roadmap
 
-Publication: **2026-10-07**. Human-reviewed.
+Publication: **2026-10-12**. Reviewed checkpoint; prospective acceptance remains separate.
+
+## October 12 gate review
+
+- **PARTIAL:** focused runtime preflight passed; full natural recovery/product proof remains open.
+- **BLOCKED_BY_NATURAL_EVIDENCE:** Paper V2 has decisions but no new eligible execution-to-settlement proof in the latest reviewed population.
+- **PARTIAL:** learning links and focused tests progressed; downstream causal after-cost uplift remains unproven.
+- **OPEN:** independent Challenger validation, physical storage shrink, Connected Demo E2E and release acceptance.
 
 ## P0 — runtime and current product truth
 
