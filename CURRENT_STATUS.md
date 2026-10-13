@@ -1,5 +1,7 @@
 # Current public status
 
+Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
+
 Publication date: **2026-10-12**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
 
 > **Rename note:** AlgoSphere is now **MIOIQ**. Historical technical names may remain where required for compatibility or provenance.
