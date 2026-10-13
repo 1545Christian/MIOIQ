@@ -1,5 +1,7 @@
 # Documented engineering work
 
+Deutsch: [COMPLETED_WORK_DE.md](COMPLETED_WORK_DE.md)
+
 Reviewed through **2026-10-07**.
 
 Items below are engineering results, not claims of profitability, Demo readiness or live readiness.
