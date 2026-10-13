@@ -6,7 +6,7 @@
 MIOIQ is an independent research and engineering project exploring AI-assisted quantitative research, market intelligence, evidence-driven learning and controlled research-to-execution workflows.
 
 Deutsch: [README_DE.md](README_DE.md)<br>
-Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md)<br>
+Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
 Latest reviewed update: [October 12, 2026](updates/2026-10-12-public-status.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHITECTURE_OVERVIEW.md) · [Documentation map](docs/README.md)
