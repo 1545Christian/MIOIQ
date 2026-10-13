@@ -1,5 +1,7 @@
 # Support and Questions
 
+Deutsch: [SUPPORT_DE.md](SUPPORT_DE.md)
+
 If you have a question about MIOIQ, the fastest route depends on the topic.
 
 ## General questions
