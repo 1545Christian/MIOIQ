@@ -1,5 +1,7 @@
 # Code of Conduct
 
+Deutsch: [CODE_OF_CONDUCT_DE.md](CODE_OF_CONDUCT_DE.md)
+
 MIOIQ is a technical research project. Questions, criticism and disagreement are welcome when they help make the work clearer, safer or more reliable.
 
 ## How to take part
