@@ -1,5 +1,7 @@
 # Contributing to MIOIQ
 
+Deutsch: [CONTRIBUTING_DE.md](CONTRIBUTING_DE.md)
+
 Thanks for taking an interest in the project.
 
 MIOIQ is currently an independent research project, not an open-source trading product. The private trading/runtime code, credentials, trained models and proprietary strategy parameters are not part of this repository.
