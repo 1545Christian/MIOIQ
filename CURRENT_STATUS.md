@@ -1,6 +1,6 @@
 # Current public status
 
-Publication date: **2026-10-07**. Human-reviewed against the latest canonical master readback and project-state export.
+Publication date: **2026-10-12**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
 
 > **Rename note:** AlgoSphere is now **MIOIQ**. Historical technical names may remain where required for compatibility or provenance.
 
@@ -17,6 +17,16 @@ Publication date: **2026-10-07**. Human-reviewed against the latest canonical ma
 - Live trading: **disabled**
 - Real capital: **0**
 - Automatic promotion: **disabled**
+
+## Update since October 7
+
+- A focused startup/recovery preflight has passed its reviewed scope; full runtime and recovery acceptance remains open.
+- Paper V2 continues to record decisions, but the latest reviewed no-setup population has not yet established a new canonical settled trade-to-learning chain. Trades are not forced to close the gate.
+- Canonical Learning has additional focused tests and linked settled-outcome evidence. A causal improvement in later comparable after-cost decisions remains unproven.
+- The latest bounded external AI evidence records valid NO_TRADE decisions. Profitability and economic uplift are not inferred.
+- Independent Challenger proof, physical storage shrink, current WebUI acceptance, Connected Demo execution and release readiness remain open.
+
+See [October 12 reviewed update](updates/2026-10-12-public-status.md) for the dated checkpoint.
 
 ## What materially changed
 
