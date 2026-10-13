@@ -1,5 +1,7 @@
 # Dokumentierte Engineering-Arbeiten
 
+English: [COMPLETED_WORK.md](COMPLETED_WORK.md)
+
 Geprüfter Stand bis **12. Oktober 2026**.
 
 English: [COMPLETED_WORK.md](COMPLETED_WORK.md)
