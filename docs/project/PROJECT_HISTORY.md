@@ -1,5 +1,7 @@
 # MIOIQ project history
 
+Deutsch: [PROJECT_HISTORY_DE.md](PROJECT_HISTORY_DE.md)
+
 <!-- HUMAN_TEXT_START -->
 
 ## Personal learning and experimentation
