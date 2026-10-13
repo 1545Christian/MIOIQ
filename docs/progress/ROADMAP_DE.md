@@ -1,5 +1,7 @@
 # Aktuelle öffentliche Roadmap
 
+English: [ROADMAP.md](ROADMAP.md)
+
 Stand: **12. Oktober 2026**. Begrenzte Nachweise und prospektive Abnahme bleiben getrennt.
 
 English: [ROADMAP.md](ROADMAP.md)
