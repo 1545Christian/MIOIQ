@@ -1,5 +1,7 @@
 # Test results and verification limits
 
+Deutsch: [TEST_RESULTS_DE.md](TEST_RESULTS_DE.md)
+
 Reviewed: **2026-10-12**
 
 This page summarizes selected public verification evidence. It intentionally omits private test names, internal IDs, exact paths, schemas and implementation fingerprints.
