@@ -1,5 +1,7 @@
 # Testergebnisse und Nachweisgrenzen
 
+English: [TEST_RESULTS.md](TEST_RESULTS.md)
+
 Stand: **12. Oktober 2026**
 
 English: [TEST_RESULTS.md](TEST_RESULTS.md)
