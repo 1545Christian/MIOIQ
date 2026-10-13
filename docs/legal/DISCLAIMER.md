@@ -1,5 +1,7 @@
 # Disclaimer
 
+Deutsch: [DISCLAIMER_DE.md](DISCLAIMER_DE.md)
+
 <!-- HUMAN_TEXT_START -->
 
 MIOIQ is an independent research and engineering project. This repository documents technical status and evidence boundaries.
