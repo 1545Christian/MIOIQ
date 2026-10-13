@@ -114,12 +114,30 @@ REPOSITORY_EXTRA_FILES = {
     "LICENSE",
     "LICENSE-CODE",
     "updates/README.md",
+    "CURRENT_STATUS_DE.md",
+    "docs/README_DE.md",
+    "docs/progress/ROADMAP_DE.md",
+    "docs/progress/COMPLETED_WORK_DE.md",
+    "docs/verification/TEST_RESULTS_DE.md",
+    "docs/project/PROJECT_HISTORY_DE.md",
+    "docs/project/VERSIONS_DE.md",
+    "docs/legal/DISCLAIMER_DE.md",
+    "docs/legal/LICENSING_DE.md",
+    "SUPPORT_DE.md",
+    "SECURITY_DE.md",
+    "CONTRIBUTING_DE.md",
+    "CODE_OF_CONDUCT_DE.md",
+    "evidence/EVIDENCE_SUMMARY_DE.md",
     "evidence/DAILY_SUMMARY.json",
 }
 REPOSITORY_ALLOWLIST = BASE_EXPORT_MANIFEST_FILES | SUPPORT_FILES | REPOSITORY_EXTRA_FILES
 LANGUAGE_COUNTERLINKS = {
     "README.md": "README_DE.md",
     "README_DE.md": "README.md",
+    "CURRENT_STATUS.md": "CURRENT_STATUS_DE.md",
+    "CURRENT_STATUS_DE.md": "CURRENT_STATUS.md",
+    "docs/README.md": "docs/README_DE.md",
+    "docs/README_DE.md": "docs/README.md",
 }
 
 
