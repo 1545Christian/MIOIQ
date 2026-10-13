@@ -1,5 +1,7 @@
 # Current public roadmap
 
+Deutsch: [ROADMAP_DE.md](ROADMAP_DE.md)
+
 Publication: **2026-10-12**. Reviewed checkpoint; prospective acceptance remains separate.
 
 ## October 12 gate review
