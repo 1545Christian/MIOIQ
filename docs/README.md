@@ -2,6 +2,8 @@
 
 This directory is the public documentation map for MIOIQ.
 
+Deutsch: [Dokumentationsübersicht](README_DE.md).
+
 If you are new to the project, start with [START_HERE.md](START_HERE.md). It explains which documents matter first and how MIOIQ uses terms such as implemented, tested, runtime proven and insufficient evidence.
 
 ## Core project documents
