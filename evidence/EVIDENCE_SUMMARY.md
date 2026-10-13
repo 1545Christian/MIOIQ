@@ -1,5 +1,7 @@
 # Public evidence summary and register guide
 
+Deutsch: [EVIDENCE_SUMMARY_DE.md](EVIDENCE_SUMMARY_DE.md)
+
 <!-- HUMAN_TEXT_START -->
 
 ## Purpose of the register
