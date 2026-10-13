@@ -1,8 +1,15 @@
 # Test results and verification limits
 
-Reviewed: **2026-10-07**
+Reviewed: **2026-10-12**
 
 This page summarizes selected public verification evidence. It intentionally omits private test names, internal IDs, exact paths, schemas and implementation fingerprints.
+
+## October 12 additions
+
+- Focused startup/recovery preflight: PASS for its bounded scope; not whole-product acceptance.
+- Focused Canonical Learning checks and exact settled-outcome links: technical evidence available; causal after-cost uplift not established.
+- Paper V2 no-current-setup decision population: valid fail-closed observation, not a completed settled trade chain.
+- No private application suite rerun or connected Demo/Testnet E2E is claimed by this documentation update.
 
 ## Latest reviewed verification
 
