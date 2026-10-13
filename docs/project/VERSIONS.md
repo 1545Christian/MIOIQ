@@ -1,5 +1,7 @@
 # Versions and build identifiers
 
+Deutsch: [VERSIONS_DE.md](VERSIONS_DE.md)
+
 Reviewed: **2026-10-03**
 
 This page records public verification categories useful for documentation. It is not a private application release manifest.
