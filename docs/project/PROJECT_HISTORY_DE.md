@@ -2,6 +2,8 @@
 
 English: [PROJECT_HISTORY.md](PROJECT_HISTORY.md)
 
+English: [PROJECT_HISTORY.md](PROJECT_HISTORY.md)
+
 ## Persönlicher Lern- und Entwicklungsweg
 
 Ich beschäftige mich seit ungefähr drei Jahren mit den zugrunde liegenden Ideen und Python-Prototypen. Diese persönliche Einordnung bedeutet nicht, dass jeder frühe Schritt durch aktuell öffentlich verfügbare Dateien vollständig belegbar ist.
