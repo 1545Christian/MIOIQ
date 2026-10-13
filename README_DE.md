@@ -6,10 +6,10 @@
 MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestützte Quant-Research, Market Intelligence, evidenzbasiertes Learning und kontrollierte Research-to-Execution-Workflows.
 
 English: [README.md](README.md)<br>
-Aktueller Status: [CURRENT_STATUS.md](CURRENT_STATUS.md)<br>
+Aktueller Status: [CURRENT_STATUS.md](CURRENT_STATUS_DE.md)<br>
 Neuestes geprüftes Update: [12. Oktober 2026](updates/2026-10-12-public-status_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
-Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README.md)
+Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
 
 > **Hinweis zur Umbenennung:** AlgoSphere heißt jetzt **MIOIQ**. Es ist dasselbe fortlaufende Projekt mit derselben Research-Historie und Evidence-Basis. Historische Dateien und Screenshots können den früheren Namen weiterhin tragen, wenn das für Provenienz notwendig ist.
 
@@ -64,7 +64,7 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 | Echtgeld | 0 |
 | Automatische Promotion | Deaktiviert |
 
-Details: [CURRENT_STATUS.md](CURRENT_STATUS.md).
+Details: [CURRENT_STATUS.md](CURRENT_STATUS_DE.md).
 
 ## Evidence und Transparenz
 
@@ -87,13 +87,13 @@ Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOP
 - [Hier anfangen](docs/START_HERE_DE.md)
 - [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md)
 - [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
-- [Aktueller Status](CURRENT_STATUS.md)
+- [Aktueller Status](CURRENT_STATUS_DE.md)
 - [Update vom 12. Oktober](updates/2026-10-12-public-status_DE.md)
-- [Roadmap](docs/progress/ROADMAP.md)
-- [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK.md)
+- [Roadmap](docs/progress/ROADMAP_DE.md)
+- [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
 - [FAQ](docs/FAQ_DE.md)
 - [Glossar](docs/GLOSSARY_DE.md)
-- [Verifikation](docs/verification/TEST_RESULTS.md)
+- [Verifikation](docs/verification/TEST_RESULTS_DE.md)
 
 ## Öffentliche Updates
 
