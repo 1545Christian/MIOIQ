@@ -1,5 +1,7 @@
 # Security and disclosure boundary
 
+Deutsch: [SECURITY_DE.md](SECURITY_DE.md)
+
 ## Public / private boundary
 
 MIOIQ's public repository is intentionally limited to documentation, selected evidence exports and small verification tooling.
