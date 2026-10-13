@@ -1,5 +1,7 @@
 # Licensing
 
+Deutsch: [LICENSING_DE.md](LICENSING_DE.md)
+
 MIOIQ has a deliberately split public/private licensing boundary.
 
 ## Public documentation and evidence
