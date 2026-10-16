@@ -2,7 +2,7 @@
 
 Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
 
-Publication date: **2026-10-12**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
+Publication date: **2026-10-16**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
 
 > **Rename note:** AlgoSphere is now **MIOIQ**. Historical technical names may remain where required for compatibility or provenance.
 
@@ -20,7 +20,13 @@ Publication date: **2026-10-12**. Consolidated from the latest available project
 - Real capital: **0**
 - Automatic promotion: **disabled**
 
-## Update since October 7
+## Update since October 12
+
+The current master tracker checkpoint is 15 October 2026. Runtime recovery, Paper V2, Canonical Learning and product acceptance remain under active verification. Broader multi-market/multi-asset planning is specified but deferred. No causal learning uplift, new Challenger or full release acceptance is claimed.
+
+See [October 16 reviewed update](updates/2026-10-16-public-status.md).
+
+## Earlier October review
 
 - A focused startup/recovery preflight has passed its reviewed scope; full runtime and recovery acceptance remains open.
 - Paper V2 continues to record decisions, but the latest reviewed no-setup population has not yet established a new canonical settled trade-to-learning chain. Trades are not forced to close the gate.
@@ -28,7 +34,7 @@ Publication date: **2026-10-12**. Consolidated from the latest available project
 - The latest bounded external AI evidence records valid NO_TRADE decisions. Profitability and economic uplift are not inferred.
 - Independent Challenger proof, physical storage shrink, current WebUI acceptance, Connected Demo execution and release readiness remain open.
 
-See [October 12 reviewed update](updates/2026-10-12-public-status.md) for the dated checkpoint.
+See [October 12 reviewed update](updates/2026-10-16-public-status.md) for the dated checkpoint.
 
 ## What materially changed
 
