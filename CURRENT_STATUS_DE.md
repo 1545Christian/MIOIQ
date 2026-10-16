@@ -1,6 +1,6 @@
 # Aktueller öffentlicher Status
 
-Veröffentlichungsstand: **12. Oktober 2026**. Zusammenfassung der zuletzt verfügbaren Belege aus den Projektbereichen. Vollständige Runtime- und Produktabnahme erfordert weitere natürliche Nachweise.
+Veröffentlichungsstand: **16. Oktober 2026**. Zusammenfassung der zuletzt verfügbaren Belege aus den Projektbereichen. Vollständige Runtime- und Produktabnahme erfordert weitere natürliche Nachweise.
 
 English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
@@ -20,7 +20,13 @@ English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 - Echtgeld: **0**
 - Automatische Promotion: **deaktiviert**
 
-## Veränderungen seit dem 7. Oktober
+## Veränderungen seit dem 12. Oktober
+
+Der aktuelle Master-Tracker wurde am 15. Oktober 2026 aktualisiert. Runtime-/Recovery-, Paper-V2-, Canonical-Learning- und Produktabnahmen bleiben in Prüfung. Multi-Market-/Multi-Asset-Planung ist spezifiziert, aber zurückgestellt. Weder kausaler Learning-Uplift noch ein neuer Challenger oder eine vollständige Release-Abnahme werden behauptet.
+
+Siehe [Update vom 16. Oktober](updates/2026-10-16-public-status_DE.md).
+
+## Frühere Oktober-Prüfung
 
 - Ein fokussierter Startup-/Recovery-Preflight hat seinen geprüften Umfang bestanden. Vollständige Runtime-/Recovery-Abnahme steht weiter aus.
 - Paper V2 sammelt Decisions; in der zuletzt geprüften No-Setup-Population fehlt weiterhin die neue kanonische Trade-→-Settlement-→-Learning-Kette. Es werden keine Trades erzwungen.
@@ -28,7 +34,7 @@ English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 - Die neueste begrenzte externe AI-Evidence enthält gültige NO_TRADE-Entscheidungen. Daraus folgt weder Profitabilität noch wirtschaftlicher Uplift.
 - Unabhängiger Challenger-Proof, physischer Datenbank-Shrink, WebUI-Abnahme, Connected Demo und Release-Readiness bleiben offen.
 
-Siehe [Update vom 12. Oktober](updates/2026-10-12-public-status_DE.md).
+Siehe [Update vom 16. Oktober](updates/2026-10-16-public-status_DE.md).
 
 ## Fachlich relevante Veränderungen
 
