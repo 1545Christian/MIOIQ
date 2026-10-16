@@ -7,7 +7,7 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
-Latest reviewed update: [October 12, 2026](updates/2026-10-12-public-status.md)<br>
+Latest reviewed update: [October 16, 2026](updates/2026-10-16-public-status.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHITECTURE_OVERVIEW.md) · [Documentation map](docs/README.md)
 
@@ -90,7 +90,7 @@ See [Public Repository Scope](docs/project/PUBLIC_REPOSITORY_SCOPE.md) and [Lice
 | Project direction | [docs/project/PROJECT_DIRECTION.md](docs/project/PROJECT_DIRECTION.md) |
 | Public repository scope | [docs/project/PUBLIC_REPOSITORY_SCOPE.md](docs/project/PUBLIC_REPOSITORY_SCOPE.md) |
 | Current status | [CURRENT_STATUS.md](CURRENT_STATUS.md) |
-| Latest reviewed update | [October 12 update](updates/2026-10-12-public-status.md) |
+| Latest reviewed update | [October 16 update](updates/2026-10-16-public-status.md) |
 | Roadmap | [docs/progress/ROADMAP.md](docs/progress/ROADMAP.md) |
 | Completed engineering work | [docs/progress/COMPLETED_WORK.md](docs/progress/COMPLETED_WORK.md) |
 | Project history | [docs/project/PROJECT_HISTORY.md](docs/project/PROJECT_HISTORY.md) |
