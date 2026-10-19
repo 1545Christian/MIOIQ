@@ -2,13 +2,21 @@
 
 English: [TEST_RESULTS.md](TEST_RESULTS.md)
 
-Stand: **12. Oktober 2026**
+Stand: **19. Oktober 2026**
 
 English: [TEST_RESULTS.md](TEST_RESULTS.md)
 
 Hier werden ausgewählte öffentliche Prüfbelege zusammengefasst. Private Testnamen, interne IDs, exakte Pfade, Schemas und Implementierungs-Fingerprints bleiben unveröffentlicht.
 
-## Ergänzungen vom 12. Oktober
+## Owner-Berichte vom 19. Oktober
+
+- Canonical-Abgleich: 256 Outcome-/Contribution-/Delta-Links, aber nur 216/256 Mirror-Zeilen; Teilnachweis, kein vollständiger Abschluss.
+- TLC-/Paper-Arena-Source und isolierte Tests; sieben gemeldete Regressionen ohne akzeptierte Baseline.
+- Externer AI-Source-Fix und fokussierte Tests gemeldet; natürliche Consumer-/Wirtschaftsabnahme offen.
+- Strategie-Werkstatt / Trades-Ansicht Source-only bis kanonischer Build und Browser-Prüfung.
+- 9/9-Singleton-Snapshot ist kein Recovery-/Loader-Ownership-Proof.
+
+## Frühere Oktober-Ergänzungen
 
 - Fokussierter Startup-/Recovery-Preflight: **PASS im begrenzten Prüfumfang**, keine vollständige Produktabnahme.
 - Canonical Learning: fokussierte Prüfungen und exakt verknüpfte Settled-Outcome-Evidence vorhanden; kausaler After-Cost-Uplift nicht bewiesen.
