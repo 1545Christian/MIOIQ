@@ -2,11 +2,19 @@
 
 English: [ROADMAP.md](ROADMAP.md)
 
-Stand: **12. Oktober 2026**. Begrenzte Nachweise und prospektive Abnahme bleiben getrennt.
+Stand: **19. Oktober 2026**. Begrenzte Nachweise und prospektive Abnahme bleiben getrennt.
 
 English: [ROADMAP.md](ROADMAP.md)
 
-## Gate-Review vom 12. Oktober
+## Prioritäten vom 19. Oktober
+
+- **PARTIAL:** 40 von 256 Canonical-Memory-Mirror-Zeilen und vollständige Trade-Lineage fehlen im Beleg.
+- **SOURCE_ONLY:** Strategie-Werkstatt / Trades-Ansicht brauchen kanonischen Build und Browser-Proof.
+- **PARTIAL:** TLC-Versionstrennung und isolierte Paper-Arena-Prüfung; sieben separat gemeldete Regressionen ohne akzeptierte Baseline.
+- **OPEN:** autoritative Loader-Ownership und natürlicher Start-/Recovery-Proof.
+- **OPEN:** externe AI-Consumer-Linkage und wirtschaftliche After-Cost-Abnahme.
+
+## Früherer Oktober-Gate-Review
 
 - **PARTIAL:** Fokussierter Runtime-Preflight bestanden; vollständiger natürlicher Recovery-/Produktnachweis offen.
 - **BLOCKED_BY_NATURAL_EVIDENCE:** Paper V2 liefert Decisions, aber noch keinen neuen gültigen Execution-to-Settlement-Nachweis in der zuletzt geprüften Population.
