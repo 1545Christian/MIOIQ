@@ -2,9 +2,13 @@
 
 Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
 
-Publication date: **2026-10-16**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
+Publication date: **2026-10-19**. Consolidated from the latest available project workstream evidence; the operating state remains subject to natural forward proof.
 
 > **Rename note:** AlgoSphere is now **MIOIQ**. Historical technical names may remain where required for compatibility or provenance.
+
+## October 19 readback — owner evidence, not product acceptance
+
+The latest user-supplied master workbook audits 322 unique items (67 exact PROVEN, 122 PARTIAL, 85 OPEN/BLOCKED, plus distinct special states). Since October 16, owner records show bounded source work for a Strategy Workshop and separate Trades view, versions-separated Trade Like Che producer/monitor/summary and Paper Arena verification, further provider/AI corrections and a canonical outcome recovery receipt. The last reports 256 linked outcomes/contributions/deltas but only 216 of 256 mirror rows, so the reconciliation remains PARTIAL. A reported 9/9 service singleton snapshot does not settle independent recovery or authoritative fresh-data ownership. See the dated [October 19 engineering update](updates/2026-10-19-public-status.md). No full product acceptance, Challenger uplift or live readiness follows.
 
 ## Operating boundary
 
@@ -24,7 +28,7 @@ Publication date: **2026-10-16**. Consolidated from the latest available project
 
 The current master tracker checkpoint is 15 October 2026. Runtime recovery, Paper V2, Canonical Learning and product acceptance remain under active verification. Broader multi-market/multi-asset planning is specified but deferred. No causal learning uplift, new Challenger or full release acceptance is claimed.
 
-See [October 16 reviewed update](updates/2026-10-16-public-status.md).
+See [October 16 reviewed update](updates/2026-10-19-public-status.md).
 
 ## Earlier October review
 
@@ -34,7 +38,7 @@ See [October 16 reviewed update](updates/2026-10-16-public-status.md).
 - The latest bounded external AI evidence records valid NO_TRADE decisions. Profitability and economic uplift are not inferred.
 - Independent Challenger proof, physical storage shrink, current WebUI acceptance, Connected Demo execution and release readiness remain open.
 
-See [October 12 reviewed update](updates/2026-10-16-public-status.md) for the dated checkpoint.
+See [October 12 reviewed update](updates/2026-10-19-public-status.md) for the dated checkpoint.
 
 ## What materially changed
 
