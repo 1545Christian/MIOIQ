@@ -1,10 +1,14 @@
 # Aktueller öffentlicher Status
 
-Veröffentlichungsstand: **16. Oktober 2026**. Zusammenfassung der zuletzt verfügbaren Belege aus den Projektbereichen. Vollständige Runtime- und Produktabnahme erfordert weitere natürliche Nachweise.
+Veröffentlichungsstand: **19. Oktober 2026**. Zusammenfassung der zuletzt verfügbaren Belege aus den Projektbereichen. Vollständige Runtime- und Produktabnahme erfordert weitere natürliche Nachweise.
 
 English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
 > **Namenswechsel:** AlgoSphere heißt jetzt **MIOIQ**. Historische technische Bezeichner bleiben erhalten, wenn Kompatibilität oder Provenienz dies erfordern.
+
+## Abgleich vom 19. Oktober — Owner-Belege, keine Produktabnahme
+
+Die aktuelle Nutzer-Master-Excel enthält 322 eindeutige Punkte (67 exakt PROVEN, 122 PARTIAL, 85 OPEN/BLOCKED und getrennte Sonderstatus). Seit dem 16. Oktober zeigen Owner-Berichte begrenzte Source-Arbeit an Strategie-Werkstatt und Trades-Ansicht, versionsgetrennter Trade-Like-Che-Verarbeitung und Paper-Arena-Prüfung, AI-/Provider-Korrekturen und einem Canonical-Outcome-Recovery-Receipt. Zu 256 verknüpften Outcomes/Contributions/Deltas wurden aber nur 216 von 256 Mirror-Zeilen nachgewiesen. Der Abgleich bleibt PARTIAL. Ein gemeldeter 9/9-Singleton-Snapshot beweist keine vollständige Recovery und keine autoritative Marktdaten-Ownership. Siehe [Engineering-Update vom 19. Oktober](updates/2026-10-19-public-status_DE.md). Keine finale Produktabnahme, kein Challenger-Uplift und keine Live-Readiness.
 
 ## Betriebs- und Sicherheitsgrenzen
 
@@ -24,7 +28,7 @@ English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
 Der aktuelle Master-Tracker wurde am 15. Oktober 2026 aktualisiert. Runtime-/Recovery-, Paper-V2-, Canonical-Learning- und Produktabnahmen bleiben in Prüfung. Multi-Market-/Multi-Asset-Planung ist spezifiziert, aber zurückgestellt. Weder kausaler Learning-Uplift noch ein neuer Challenger oder eine vollständige Release-Abnahme werden behauptet.
 
-Siehe [Update vom 16. Oktober](updates/2026-10-16-public-status_DE.md).
+Siehe [Update vom 16. Oktober](updates/2026-10-19-public-status_DE.md).
 
 ## Frühere Oktober-Prüfung
 
@@ -34,7 +38,7 @@ Siehe [Update vom 16. Oktober](updates/2026-10-16-public-status_DE.md).
 - Die neueste begrenzte externe AI-Evidence enthält gültige NO_TRADE-Entscheidungen. Daraus folgt weder Profitabilität noch wirtschaftlicher Uplift.
 - Unabhängiger Challenger-Proof, physischer Datenbank-Shrink, WebUI-Abnahme, Connected Demo und Release-Readiness bleiben offen.
 
-Siehe [Update vom 16. Oktober](updates/2026-10-16-public-status_DE.md).
+Siehe [Update vom 16. Oktober](updates/2026-10-19-public-status_DE.md).
 
 ## Fachlich relevante Veränderungen
 
