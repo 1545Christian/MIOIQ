@@ -6,7 +6,7 @@ Der schnellste Einstieg ist:
 
 1. **[Projektrichtung](project/PROJECT_DIRECTION_DE.md)** — wohin MIOIQ entwickelt wird.
 2. **[Aktueller Status](../CURRENT_STATUS_DE.md)** — was heute wirklich funktioniert, bewiesen oder noch offen ist.
-3. **[Neuestes Update](../updates/2026-10-16-public-status_DE.md)** — was sich zuletzt geändert hat.
+3. **[Neuestes Update](../updates/2026-10-19-public-status_DE.md)** — was sich zuletzt geändert hat.
 4. **[Evidence-Übersicht](../evidence/EVIDENCE_SUMMARY_DE.md)** — wie öffentliche Evidence dokumentiert wird und wo ihre Grenzen liegen.
 5. **[Roadmap](progress/ROADMAP_DE.md)** — was als Nächstes ansteht.
 
