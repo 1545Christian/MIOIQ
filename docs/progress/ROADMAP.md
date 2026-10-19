@@ -2,9 +2,17 @@
 
 Deutsch: [ROADMAP_DE.md](ROADMAP_DE.md)
 
-Publication: **2026-10-12**. Reviewed checkpoint; prospective acceptance remains separate.
+Publication: **2026-10-19**. Reviewed checkpoint; prospective acceptance remains separate.
 
-## October 12 gate review
+## October 19 priorities
+
+- **PARTIAL:** missing 40/256 canonical-memory mirror rows and full trade lineage.
+- **SOURCE_ONLY:** Strategy Workshop / Trades view requires canonical delivery and browser proof.
+- **PARTIAL:** versioned TLC producer and Paper Arena isolated proof, seven separately reported regressions without accepted baseline.
+- **OPEN:** authoritative market-loader ownership and natural start/recovery proof.
+- **OPEN:** external AI consumer linkage and real after-cost acceptance.
+
+## Earlier October gate review
 
 - **PARTIAL:** focused runtime preflight passed; full natural recovery/product proof remains open.
 - **BLOCKED_BY_NATURAL_EVIDENCE:** Paper V2 has decisions but no new eligible execution-to-settlement proof in the latest reviewed population.
