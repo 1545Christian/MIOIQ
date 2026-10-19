@@ -2,11 +2,19 @@
 
 Deutsch: [TEST_RESULTS_DE.md](TEST_RESULTS_DE.md)
 
-Reviewed: **2026-10-12**
+Reviewed: **2026-10-19**
 
 This page summarizes selected public verification evidence. It intentionally omits private test names, internal IDs, exact paths, schemas and implementation fingerprints.
 
-## October 12 additions
+## October 19 owner-reported evidence
+
+- Canonical reconciliation: 256 linked outcome/contribution/delta records, but only 216/256 mirror rows; partial, not accepted as complete.
+- Version-specific TLC/Paper Arena source/isolated verification; seven reported regressions remain without accepted baseline.
+- External AI source correction and focused tests are owner reported; natural consumer/economic acceptance remains open.
+- Strategy Workshop/Trades view is source-only until normal delivery and browser validation.
+- 9/9 service singleton snapshot does not prove recovery or market loader authority.
+
+## Earlier October additions
 
 - Focused startup/recovery preflight: PASS for its bounded scope; not whole-product acceptance.
 - Focused Canonical Learning checks and exact settled-outcome links: technical evidence available; causal after-cost uplift not established.
