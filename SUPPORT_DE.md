@@ -2,6 +2,12 @@
 
 English: [SUPPORT.md](SUPPORT.md)
 
+## Freiwillige Projektunterstützung
+
+Wenn du die unabhängige Research- und Engineering-Arbeit von MIOIQ unterstützen möchtest, kannst du das freiwillig über [GitHub Sponsors](https://github.com/sponsors/1545Christian) oder [Ko-fi](https://ko-fi.com/mioiq) tun. Beiträge helfen, Entwicklungszeit, Testinfrastruktur und öffentliche Dokumentation zu finanzieren. Unterstützung ist keine Investition und bietet weder Eigentum noch Rückzahlung, finanzielle Erträge, Trading-Signale, Anlageberatung oder garantierte Ergebnisse. Die MIOIQ-Anwendung bleibt privat; dieses Repository veröffentlicht Dokumentation und ausgewählte Evidence.
+
+## Fragen und Projektunterstützung
+
 Für Fragen zu MIOIQ ist je nach Thema ein anderer Weg sinnvoll.
 
 ## Allgemeine Fragen
