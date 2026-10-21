@@ -9,6 +9,7 @@ English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
 Neuestes geprüftes Update: [19. Oktober 2026](updates/2026-10-19-public-status_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
+Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
 
 > **Hinweis zur Umbenennung:** AlgoSphere heißt jetzt **MIOIQ**. Es ist dasselbe fortlaufende Projekt mit derselben Research-Historie und Evidence-Basis. Historische Dateien und Screenshots können den früheren Namen weiterhin tragen, wenn das für Provenienz notwendig ist.
