@@ -110,6 +110,10 @@ Useful public contributions include reproducible bug reports, documentation corr
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening an issue.
 
+## Support MIOIQ
+
+If you would like to help sustain MIOIQ's independent research and engineering, you can support it through [GitHub Sponsors](https://github.com/sponsors/1545Christian) or [Ko-fi](https://ko-fi.com/mioiq). Contributions are voluntary and help fund development time, testing infrastructure, and clearer public documentation. Support is not an investment and offers no ownership, repayment, financial return, trading signals, investment advice, or guaranteed outcomes. This repository publishes documentation and selected evidence; the MIOIQ application is private.
+
 ## Public updates
 
 Shorter development and research updates are published on Telegram:
