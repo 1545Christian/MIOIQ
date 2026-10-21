@@ -72,6 +72,10 @@ MIOIQ veröffentlicht ausgewählte geprüfte Projektstände, Research-Zusammenfa
 
 Negative Ergebnisse bleiben sichtbar. Technischer Abschluss ist kein Beweis für Modellqualität, Profitabilität oder Live-Readiness.
 
+## MIOIQ unterstützen
+
+Wenn du die unabhängige Research- und Engineering-Arbeit unterstützen möchtest, kannst du das freiwillig über [GitHub Sponsors](https://github.com/sponsors/1545Christian) oder [Ko-fi](https://ko-fi.com/mioiq) tun. Beiträge helfen, Entwicklungszeit, Testinfrastruktur und öffentliche Dokumentation zu finanzieren. Unterstützung ist keine Investition und bietet weder Eigentum noch Rückzahlung, finanzielle Erträge, Trading-Signale, Anlageberatung oder garantierte Ergebnisse. Die MIOIQ-Anwendung bleibt privat; dieses Repository veröffentlicht Dokumentation und ausgewählte Evidence.
+
 ## Öffentlich / privat
 
 Dieses Repository ist die **öffentliche Dokumentations- und Evidence-Schicht** von MIOIQ.
