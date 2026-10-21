@@ -2,6 +2,12 @@
 
 Deutsch: [SUPPORT_DE.md](SUPPORT_DE.md)
 
+## Voluntary project support
+
+If you would like to help sustain MIOIQ's independent research and engineering, you can support it through [GitHub Sponsors](https://github.com/sponsors/1545Christian) or [Ko-fi](https://ko-fi.com/mioiq). Contributions are voluntary and help fund development time, testing infrastructure, and clearer public documentation. Support is not an investment and offers no ownership, repayment, financial return, trading signals, investment advice, or guaranteed outcomes. The MIOIQ application is private; this repository publishes documentation and selected evidence.
+
+## Questions and project help
+
 If you have a question about MIOIQ, the fastest route depends on the topic.
 
 ## General questions
