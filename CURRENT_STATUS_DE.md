@@ -1,110 +1,27 @@
 # Aktueller öffentlicher Status
 
-Veröffentlichungsstand: **19. Oktober 2026**. Zusammenfassung der zuletzt verfügbaren Belege aus den Projektbereichen. Vollständige Runtime- und Produktabnahme erfordert weitere natürliche Nachweise.
-
 English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
-> **Namenswechsel:** AlgoSphere heißt jetzt **MIOIQ**. Historische technische Bezeichner bleiben erhalten, wenn Kompatibilität oder Provenienz dies erfordern.
+Veröffentlichungsdatum: **24.10.2026**. Dies ist eine begrenzte Zusammenfassung geprüfter Projektdokumentation und Evidence, keine Behauptung, alle MIOIQ-Arbeiten seien abgeschlossen.
 
-## Abgleich vom 19. Oktober — Owner-Belege, keine Produktabnahme
+## Aktueller Projektstand
 
-Die aktuelle Nutzer-Master-Excel enthält 322 eindeutige Punkte (67 exakt PROVEN, 122 PARTIAL, 85 OPEN/BLOCKED und getrennte Sonderstatus). Seit dem 16. Oktober belegen neuere Owner-Berichte eine begrenzte reguläre WebUI-Auslieferung und angemeldete Browserprüfungen für getrennte Strategie-Werkstatt-/Strategie-Trades-Ansichten, inklusive durchsuchbarem Bestandskatalog mit 1.616 Strategieeinträgen und Canvas-Bedienung. Der produktive Learning-Index und beide Gesamtkonzepte bleiben nicht abgenommen. Weitere Belege betreffen versionsgetrennter Trade-Like-Che-Verarbeitung und Paper-Arena-Prüfung, AI-/Provider-Korrekturen und einem Canonical-Outcome-Recovery-Receipt. Zu 256 verknüpften Outcomes/Contributions/Deltas wurden aber nur 216 von 256 Mirror-Zeilen nachgewiesen. Der Abgleich bleibt PARTIAL. Ein gemeldeter 9/9-Singleton-Snapshot beweist keine vollständige Recovery und keine autoritative Marktdaten-Ownership. Siehe [Engineering-Update vom 19. Oktober](updates/2026-10-19-public-status_DE.md). Keine finale Produktabnahme, kein Challenger-Uplift und keine Live-Readiness.
+MIOIQ ist ein aktives unabhängiges Research- und Engineering-Projekt. Neuere fokussierte Arbeit hat den Umgang mit Research-Eingaben verbessert: deklarierte Forecast-Zeiträume werden eingehalten, zeitgebundener Kontext wird anhand relevanter Zeitstempel gefiltert und fehlende Pflichtdaten zum Marktstatus bleiben ausdrücklich nicht verfügbar. Fokussierte Prüfungen dieser Änderungen wurden abgeschlossen.
 
-## Betriebs- und Sicherheitsgrenzen
+Diese Änderungen verbessern die Evidence-Verarbeitung innerhalb ihres jeweiligen Umfangs. Sie belegen weder vollständige Produktkorrektheit noch profitable Strategien oder kausale wirtschaftliche Verbesserungen.
 
-- Research & Engineering: **aktiv**
-- Paper-/Shadow-Research: **aktiv / fail-closed**
-- Demo-Einladung und Registrierung: **zuvor im begrenzten Umfang nachgewiesen**
-- Vollständige One-Session-Produktparität: **offen**
-- Runtime-Abnahme: **teilweise / begrenzt**
-- Vollständige aktuelle WebUI-Abnahme: **offen**
-- Connected Demo/Testnet Execution E2E: **nicht bewiesen**
-- Release / Distribution: **offen**
-- Live-Trading: **deaktiviert**
-- Echtgeld: **0**
-- Automatische Promotion: **deaktiviert**
+## Betriebs- und Zugangsgrenzen
 
-## Veränderungen seit dem 12. Oktober
+- Die MIOIQ-Anwendung und Trading-Runtime bleiben privat.
+- Das öffentliche GitHub-Repository enthält ausgewählte Dokumentation und Evidence; es ist kein Produktdownload.
+- Derzeit gibt es keine öffentliche Demo mit offenem Zugang.
+- Die vollständige aktuelle WebUI-/Produktabnahme bleibt offen.
+- Eine vollständige End-to-End-Release-Validierung und Connected-Demo-/Testnet-Ausführung sind nicht bewiesen.
+- Ein gematchter Vergleich nach Kosten, der kausale Verbesserungen durch Learning oder Modelle belegt, bleibt offen.
+- Live-Trading ist deaktiviert; Echtgeld beträgt **0**; automatische Promotion ist deaktiviert.
 
-Der aktuelle Master-Tracker wurde am 15. Oktober 2026 aktualisiert. Runtime-/Recovery-, Paper-V2-, Canonical-Learning- und Produktabnahmen bleiben in Prüfung. Multi-Market-/Multi-Asset-Planung ist spezifiziert, aber zurückgestellt. Weder kausaler Learning-Uplift noch ein neuer Challenger oder eine vollständige Release-Abnahme werden behauptet.
+## Öffentliche Evidence
 
-Siehe [Update vom 16. Oktober](updates/2026-10-19-public-status_DE.md).
+Das datierte [Update vom 24. Oktober](updates/2026-10-24-public-status_DE.md) fasst jüngere begrenzte Fortschritte und deren Grenzen zusammen. Die [Evidence-Übersicht](evidence/EVIDENCE_SUMMARY.md) erklärt die Interpretation veröffentlichter Receipts. Ältere datierte Updates bleiben historische Momentaufnahmen und sind nicht als aktueller Status zu lesen.
 
-## Frühere Oktober-Prüfung
-
-- Ein fokussierter Startup-/Recovery-Preflight hat seinen geprüften Umfang bestanden. Vollständige Runtime-/Recovery-Abnahme steht weiter aus.
-- Paper V2 sammelt Decisions; in der zuletzt geprüften No-Setup-Population fehlt weiterhin die neue kanonische Trade-→-Settlement-→-Learning-Kette. Es werden keine Trades erzwungen.
-- Canonical Learning hat zusätzliche fokussierte Prüfungen und verknüpfte Settled-Outcome-Evidence. Ein kausaler Vorteil späterer vergleichbarer Entscheidungen nach Kosten ist nicht bewiesen.
-- Die neueste begrenzte externe AI-Evidence enthält gültige NO_TRADE-Entscheidungen. Daraus folgt weder Profitabilität noch wirtschaftlicher Uplift.
-- Unabhängiger Challenger-Proof, physischer Datenbank-Shrink, WebUI-Abnahme, Connected Demo und Release-Readiness bleiben offen.
-
-Siehe [Update vom 16. Oktober](updates/2026-10-19-public-status_DE.md).
-
-## Fachlich relevante Veränderungen
-
-### Runtime und Execution-Kosten
-
-Der aktuell geprüfte Execution-Cost-Contract ist in einem begrenzten Runtime-Pfad aktiv. Dort ist der ältere feste Kosten-Fallback nicht mehr aktiv.
-
-Das ist **keine** vollständige Kostenwahrheit. Natürliche Forward-Kosten, gültige Labels und eine numerisch bewiesene Expected-Net-Entscheidungsgrenze fehlen weiterhin. Wo Kostenevidence unvollständig ist, bleibt das Verhalten fail-closed.
-
-### WebUI — aktueller Zustand
-
-Neue Browser-Gegenbelege zeigen, dass Positionszeilen während eines Refreshs vorübergehend wechseln und später wieder auftauchen können; im gleichen Bereich wurde Layout-Bewegung beobachtet.
-
-Frühere Prüfungen von Filtern, Pagination und responsiver Ansicht gelten nur für ihren geprüften Umfang. Offen sind atomare Snapshot-/Refresh-Konsistenz, Erhalt von Filter-/Scroll-/Selektionszustand und abschließende Browser-Abnahme des tatsächlich ausgelieferten Builds.
-
-### Decision → Outcome → Learning
-
-Source- und Runtime-Evidence zeigt deutlicher, dass Learning-Informationen in spätere Decision-Kontexte gelangen können.
-
-Nicht bewiesen ist der eigentliche wissenschaftliche Nutzen: ein abgeschlossenes Outcome derselben Identitätskette, das ein Learning-Update erzeugt und eine spätere vergleichbare Entscheidung nach Kosten messbar verbessert.
-
-Allein die Nutzung von Learning-Kontext ist kein Nachweis kausaler Verbesserung.
-
-### Externe AI-Analyse
-
-Der aktuelle Analysepfad besitzt neuere Loaded-/Runtime-Evidence und einen erfolgreichen regulären Provider-Zyklus. Die dort beobachteten Decisions waren NO_TRADE.
-
-Das belegt den Ablauf und ein gültiges Decision-Set, nicht Profitabilität, Trade-Generierung oder bessere Qualität. Outcome, Funnel, Learning und After-Cost-Wirkung bleiben offen.
-
-### Storage und Datenbank
-
-Die Datenbank ist nach früherer logischer Compaction weiter gewachsen. Read-only-Messungen belegen erneutes Wachstum und eine separate langsame Query-Grenze, aber noch nicht den verantwortlichen Writer oder die Ursache.
-
-Physischer Shrink, verlustfreie Reorganisation und Query-Optimierung sind getrennte Aufgaben.
-
-### Codebereinigung und Release
-
-Begrenzte Source-Cleanup-Arbeiten gehen weiter. Nach späteren Source-Änderungen ist das Release-Manifest noch nicht auf dem erforderlichen Stand.
-
-Daher gibt es weder einen globalen Source-Freeze noch Manifest-Parity-PASS oder Release-Abnahme. Codebereinigung ist kein Release-Nachweis.
-
-## Research-Grenzen
-
-Ein vollständig gematchter wirtschaftlicher Vergleich fehlt weiterhin. Die aktuellen A/B/C-Diagnosen beruhen noch nicht auf einer durchgehend identischen Population von Beobachtungen, Targets, Settlements und Kosten.
-
-Daraus folgt weder ein Modell-Sieger noch eine Promotion- oder Profitabilitätsbehauptung.
-
-## Weiterhin nicht bewiesen
-
-- dauerhafter ML-Uplift
-- Überlegenheit von V2 gegenüber V1
-- kausaler wirtschaftlicher Nutzen des Learning-Loops
-- Profitabilität der externen AI-Analyse
-- vollständige Execution-Cost-Wahrheit
-- vollständige aktuelle WebUI-Abnahme
-- dauerhafter physischer DB-Shrink
-- reproduzierbare Release-/Update-/Rollback-Abnahme
-- Connected Demo/Testnet Execution E2E
-- Live-Readiness
-
-## Öffentlich / privat
-
-MIOIQ veröffentlicht Projektrichtung, geprüfte Engineering-Fortschritte, Methodik und ausgewählte Evidence.
-
-Nicht veröffentlicht werden private Strategielogik, exakte Schwellen, private Prompts, interne Owner-/Task-IDs, lokale Pfade, exakte Test-Fingerprints, private Schemas, Accountdaten, Credentials, Venue-Routing-Details oder Implementierungskombinationen, die die Rekonstruktion des privaten Systems erheblich erleichtern würden.
-
-## Sicherheitsgrenze
-
-**LIVE=false · REAL_CAPITAL=0 · automatische Promotion deaktiviert · Connected Demo/Testnet Execution E2E nicht bewiesen.**
+Die öffentliche Dokumentation unterscheidet zwischen Implementierung, fokussierten Tests, Laufzeitbeobachtung, prospektiver Validierung und offenen Fragen. Nur Research und Engineering; keine Trading-Signale oder Anlageberatung.
