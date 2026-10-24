@@ -7,7 +7,7 @@ MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestüt
 
 English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
-Neuestes geprüftes Update: [19. Oktober 2026](updates/2026-10-19-public-status_DE.md)<br>
+Neuestes geprüftes Update: [24. Oktober 2026](updates/2026-10-24-public-status_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
@@ -48,7 +48,7 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 
 | Bereich | Aktueller Stand |
 |---|---|
-| Research & Engineering | Aktiv |
+| Research & Engineering | Aktiv; fokussierte Korrekturen an Research-Eingaben geprüft |
 | Paper / Shadow | Aktiv / fail-closed |
 | Paper-V2-/Learning-Pfad | Learning-Kontext aktiv; kausaler wirtschaftlicher Uplift nicht bewiesen |
 | Evidence-/Learning-Pfad | Verknüpfung weiter verbessert; natürliche wirtschaftliche Wirkung bleibt offen |
@@ -59,6 +59,7 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 | Vollständige aktuelle WebUI-Abnahme | **Offen** |
 | Research Storage | DB-Wachstum erneut beobachtet; Ursache/physischer Shrink offen |
 | Multi-Venue-Kostenwahrheit | Aktueller Vertrag weiter; vollständige natürliche Kostentruth offen |
+| Öffentliche Anwendung / offene Demo | **Nicht verfügbar; Anwendung bleibt privat** |
 | Demo / Testnet Execution E2E | **Nicht bewiesen** |
 | Release / Distribution | **Offen** |
 | Live-Trading | Deaktiviert |
@@ -93,7 +94,7 @@ Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOP
 - [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md)
 - [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
 - [Aktueller Status](CURRENT_STATUS_DE.md)
-- [Update vom 19. Oktober](updates/2026-10-19-public-status_DE.md)
+- [Update vom 24. Oktober](updates/2026-10-24-public-status_DE.md)
 - [Roadmap](docs/progress/ROADMAP_DE.md)
 - [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
 - [FAQ](docs/FAQ_DE.md)
