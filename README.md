@@ -7,7 +7,7 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
-Latest reviewed update: [October 19, 2026](updates/2026-10-19-public-status.md)<br>
+Latest reviewed update: [October 24, 2026](updates/2026-10-24-public-status.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Support: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHITECTURE_OVERVIEW.md) · [Documentation map](docs/README.md)
@@ -51,6 +51,7 @@ A newer model does not become active simply because it is newer. Promotion is in
 | Research & engineering | Active |
 | Paper / Shadow | Active / fail-closed |
 | Runtime | Scoped current evidence; full product acceptance open |
+| Research-input handling | Recent focused corrections checked; broader product acceptance remains open |
 | Paper V2 / learning | Learning context active; causal economic uplift not proven |
 | External AI analysis | Current provider path evidenced; profitability not proven |
 | Demo invite + registration | Scoped path previously proven |
@@ -58,6 +59,7 @@ A newer model does not become active simply because it is newer. Promotion is in
 | Full current WebUI acceptance | **Open** |
 | Research storage | Database growth re-observed; root cause / physical shrink open |
 | Multi-venue cost truth | Current contract progressed; complete natural cost truth open |
+| Public application / open demo | **Not available; application remains private** |
 | Demo / Testnet execution E2E | **Not proven** |
 | Release / distribution | **Open** |
 | Live trading | Disabled |
@@ -91,7 +93,7 @@ See [Public Repository Scope](docs/project/PUBLIC_REPOSITORY_SCOPE.md) and [Lice
 | Project direction | [docs/project/PROJECT_DIRECTION.md](docs/project/PROJECT_DIRECTION.md) |
 | Public repository scope | [docs/project/PUBLIC_REPOSITORY_SCOPE.md](docs/project/PUBLIC_REPOSITORY_SCOPE.md) |
 | Current status | [CURRENT_STATUS.md](CURRENT_STATUS.md) |
-| Latest reviewed update | [October 19 update](updates/2026-10-19-public-status.md) |
+| Latest reviewed update | [October 24 update](updates/2026-10-24-public-status.md) |
 | Roadmap | [docs/progress/ROADMAP.md](docs/progress/ROADMAP.md) |
 | Completed engineering work | [docs/progress/COMPLETED_WORK.md](docs/progress/COMPLETED_WORK.md) |
 | Project history | [docs/project/PROJECT_HISTORY.md](docs/project/PROJECT_HISTORY.md) |
