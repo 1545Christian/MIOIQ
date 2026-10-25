@@ -7,7 +7,7 @@ MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestüt
 
 English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
-Neuestes geprüftes Update: [24. Oktober 2026](updates/2026-10-24-public-status_DE.md)<br>
+Neuestes geprüftes Update: [25. Oktober 2026](updates/2026-10-25-public-status_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
@@ -94,7 +94,7 @@ Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOP
 - [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md)
 - [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
 - [Aktueller Status](CURRENT_STATUS_DE.md)
-- [Update vom 24. Oktober](updates/2026-10-24-public-status_DE.md)
+- [Update vom 25. Oktober](updates/2026-10-25-public-status_DE.md)
 - [Roadmap](docs/progress/ROADMAP_DE.md)
 - [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
 - [FAQ](docs/FAQ_DE.md)
