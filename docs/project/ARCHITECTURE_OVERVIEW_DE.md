@@ -1,0 +1,130 @@
+# Architekturüberblick
+
+Dies ist eine öffentliche, bewusst grobe Übersicht darüber, wie MIOIQ zusammenspielen soll. Sie beschreibt die Research-Architektur, ohne privaten Anwendungscode, proprietäre Strategieparameter oder Deployment-Details zu veröffentlichen.
+
+Der aktuelle Quellenabgleich bestätigt Implementierung an den Installations-, Eingabe-, Decision-/Outcome-/Learning- und UI-Grenzen. Der nachfolgende Kreislauf beschreibt die Architektur; eine vollständige natürliche Kette mit kausalem wirtschaftlichem Nutzen ist damit nicht bewiesen.
+
+## Der Hauptkreislauf
+
+```text
+Marktdaten
+   ↓
+Market Context / State / Struktur
+   ↓
+Research-Kandidaten
+   ↓
+Decision-Lanes
+   ↓
+Paper / Shadow / Research Outcomes
+   ↓
+Canonical Memory
+   ↓
+Learning Delta
+   ↓
+Revalidierung / Lifecycle
+   ↺
+```
+
+Entscheidend ist der Kreislauf: Eine spätere Entscheidung soll auf die Evidence zurückgeführt werden können, die sie beeinflusst hat.
+
+## 1. Marktinputs
+
+MIOIQ arbeitet mit Marktinformationen über mehrere Horizonte.
+
+Die öffentliche Dokumentation trennt zwischen:
+
+- Execution Truth zur Outcome-Messung
+- Context/Features für Analyse
+- breiterem Marktumfeld wie BTC/ETH, Struktur, Volatilität und News, soweit relevant
+
+Future Information soll nicht so behandelt werden, als wäre sie zum Decision-Zeitpunkt bereits bekannt gewesen.
+
+## 2. Marktverständnis
+
+Bevor eine Strategie oder ein Modell bewertet wird, versucht MIOIQ die Marktumgebung zu beschreiben.
+
+Öffentliche Beispiele bleiben bewusst allgemein: Marktregime, Struktur, Volatilität und Übergänge. Exakte Indikatoren, Schwellen, Feature-Definitionen und Kombinationen bleiben privat.
+
+Ziel ist nicht anzunehmen, dass eine Strategie in jeder Marktphase gleich gut funktioniert.
+
+## 3. Rule- und ML-Research
+
+Rule-Evidence bleibt getrennt von der ML-Research-Performance erhalten. Exaktes Selector-Design, Feature-Sets und Scoring-Logik bleiben privat.
+
+ML soll einen echten Mehrwert gegenüber einer nachvollziehbaren Baseline beweisen müssen und nicht allein deshalb übernehmen, weil es moderner ist.
+
+Der öffentliche Lifecycle lautet:
+
+`HYPOTHESIS → QUICK → ROBUST_OOS → CHALLENGER → PAPER → CHAMPION`
+
+Ein Kandidat darf scheitern, unklar bleiben oder ohne Promotion erhalten werden.
+
+## 4. Decision-Lanes
+
+MIOIQ trennt unterschiedliche Decision-Populationen bewusst.
+
+Die öffentliche Doku unterscheidet simulierte, Research- und kontrafaktische Populationen. Exakte interne Lane-Namen, Routing- und Eligibility-Regeln bleiben privat.
+
+Diese Lanes werden nicht still vermischt, weil ihre Entscheidungen unter unterschiedlichen Verträgen entstehen können.
+
+## 5. Canonical Memory
+
+Canonical Memory ist die gemeinsame Evidence-Schicht:
+
+`Decision → Trade / NO_TRADE → Outcome → Learning`
+
+Sie soll Identity und Provenienz so erhalten, dass später nachvollziehbar bleibt:
+
+- welche Decision zu welchem Outcome führte
+- welche Strategie, Side und Marktphase beteiligt waren
+- was nach dem Entry geschah
+- welche Evidence daraus gelernt wurde
+- ob spätere Selektion tatsächlich verändert wurde
+
+## 6. Learning und Anpassung
+
+Der beabsichtigte Lernkreislauf ist kontrolliert:
+
+`neue Evidence → Evaluation → Revalidierung → Lifecycle-Entscheidung`
+
+Learning darf spätere Strategieauswahl beeinflussen. Promotion und Execution-Berechtigungen bleiben trotzdem separat geregelt.
+
+## 7. Paper / Shadow vor Live
+
+Paper- und Shadow-Pfade sammeln prospektive Evidence, ohne Research-Erfolg mit Live-Readiness gleichzusetzen.
+
+Ein technisches PASS ist nicht automatisch:
+
+- wissenschaftlicher Uplift
+- robuste Profitabilität
+- Release-Readiness
+- sichere Live-Ausführung
+
+Dafür braucht es jeweils eigene Evidence.
+
+## 8. Demo und spätere Execution
+
+Demo / Packaging / Release ist ein eigener Arbeitsbereich.
+
+Eine spätere Connected Demo ist weiterhin kein Live-Trading. Ein öffentliches/clientseitiges Paket braucht eigene Regeln für:
+
+- Berechtigungen
+- freigegebenes Modellpaket
+- Konfiguration
+- Reconnect/Recovery
+- Integrity/Update/Rollback
+- Schutz von Credentials
+
+Live-Readiness bleibt spätere Arbeit hinter kontrollierter Demo-/Stabilitäts-Evidence. Exakte Venue-/Account-Rollout-Reihenfolge bleibt privat.
+
+## Warum diese Architektur?
+
+MIOIQ soll eine schwierigere Frage beantworten als nur „kann ein Modell den Preis vorhersagen?“
+
+Die eigentliche Frage ist:
+
+> Was funktioniert wo und unter welchen Bedingungen, mit welcher Evidence — und wann ist Nicht-Handeln die bessere Entscheidung?
+
+Dafür müssen auch gescheiterte Experimente erhalten, Populationen getrennt und Learning-Wege nachvollziehbar bleiben.
+
+Siehe auch: [Projektrichtung](PROJECT_DIRECTION_DE.md) · [Aktueller Status](../../CURRENT_STATUS_DE.md) · [Evidence-Übersicht](../../evidence/EVIDENCE_SUMMARY_DE.md)

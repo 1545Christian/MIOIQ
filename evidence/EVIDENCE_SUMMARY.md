@@ -1,0 +1,50 @@
+# Public evidence summary and register guide
+
+Deutsch: [EVIDENCE_SUMMARY_DE.md](EVIDENCE_SUMMARY_DE.md)
+
+<!-- HUMAN_TEXT_START -->
+
+## Historical scope
+
+The register and [daily summary](DAILY_SUMMARY.json) belong to the historical export dated **September 13, 2026**. The daily summary also contains earlier individually dated observations. Filenames and then-current CURRENT labels are not live status. Read [Current Status](../CURRENT_STATUS.md) for the latest reviewed state.
+
+## Purpose of the register
+
+[REPORTS_PUBLIC_REGISTER.csv](REPORTS_PUBLIC_REGISTER.csv) is a sanitised inventory of discovered report artifacts. It lets visitors check register count, neutral IDs, category, UTC date, registration state and published hashes without disclosing report filenames, paths or raw contents.
+
+Selected internal identifiers and private source fingerprints were removed in a later privacy edit. Original publication/observation dates and historical scope are preserved. The old export manifest is not a hash check of the redacted files.
+
+## Categories and states
+
+- **BUILD**: build-oriented artifact metadata.
+- **DELIVERY**: delivery or release-oriented artifact metadata.
+- **QA**: quality-assurance or audit-oriented artifact metadata.
+- **TEST**: test-oriented artifact metadata.
+- **OTHER**: registered artifact metadata not placed in the preceding public categories.
+- **REGISTERED**: the artifact was included in the sanitised inventory. It does not mean that its result passed.
+- **HASH_NOT_PUBLISHED**: one record intentionally has no published raw-file hash because a stable raw hash can itself be a private-material fingerprint.
+
+## SHA-256 limits
+
+A SHA-256 value can help compare a file against the same file later. It does not prove that the report is correct, that a test passed, that a result was independently reproduced, or that the file is safe to rely on for trading.
+
+## How to use the register
+
+Use a neutral ID to locate a row, inspect its category and date, and compare a published hash only where one is available. Do not treat a register row as a test certificate or completed development task.
+
+<!-- HUMAN_TEXT_END -->
+
+<!-- AUTO_VALUES_START -->
+**Historical export integrity: verified at publication.** Current sanitised register count: `4423`; published hashes: `4422`; `HASH_NOT_PUBLISHED` rows: `1`.
+
+| Category | Count |
+|---|---:|
+| BUILD | 17 |
+| DELIVERY | 225 |
+| QA | 313 |
+| TEST | 82 |
+| OTHER | 3786 |
+| **Total** | **4423** |
+
+The register count is not a count of passed tests, completed features or performance improvements.
+<!-- AUTO_VALUES_END -->

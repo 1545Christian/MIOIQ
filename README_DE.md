@@ -1,0 +1,113 @@
+# MIOIQ
+
+**Evidence-Driven Quant Intelligence**  
+**AI • Quant Research • Trading Systems**
+
+MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestützte Quant-Research, Market Intelligence, evidenzbasiertes Learning und kontrollierte Research-to-Execution-Workflows.
+
+English: [README.md](README.md)<br>
+Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
+Neuestes geprüftes Update: [1. November 2026](updates/2026-11-01-public-status_DE.md)<br>
+Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
+Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
+Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
+
+> **Hinweis zur Umbenennung:** AlgoSphere heißt jetzt **MIOIQ**. Es ist dasselbe fortlaufende Projekt mit derselben Research-Historie und Evidence-Basis. Historische Dateien und Screenshots können den früheren Namen weiterhin tragen, wenn das für Provenienz notwendig ist.
+
+> **Hinweis zum öffentlichen Repository:** Dieses Repository dokumentiert das Projekt und ausgewählte Evidence. Es ist kein Download der privaten MIOIQ-Trading-Anwendung.
+
+## Überblick
+
+MIOIQ verbindet quantitative Marktanalyse, Market-State- und Regime-Research, Rule- und ML-Validierung, evidence-verknüpfte Decision → Outcome → Learning-Workflows, externe AI-gestützte Analyse, Paper-/Shadow-Ausführung, Lifecycle-Governance und spätere Demo-/Packaging-/Release-Arbeit.
+
+Im Mittelpunkt stehen Reproduzierbarkeit, kausale Auswertung, klare Lineage und der Erhalt positiver wie negativer Evidence.
+
+## Wohin sich MIOIQ entwickeln soll
+
+MIOIQ wird zu einem konfigurierbaren quantitativen Research- und Trading-Analyse-System entwickelt, das ein breites Marktuniversum untersuchen soll, ausgehend von Krypto und mit ausgewählten aktien- und rohstoffbezogenen Derivaten im Research. Konfiguration oder Datenverfügbarkeit beweisen dabei keine vollständige Handelsberechtigung oder Abnahme.
+
+Das Ziel ist nicht, ein Modell oder eine Strategie auf jeden Markt zu zwingen. Das System soll anhand messbarer Evidence lernen:
+
+- welche Klassen von Ansätzen unter unterschiedlichen Marktbedingungen funktionieren
+- wann eine Rule-Strategie stärker ist als ML
+- wann ein Modell revalidiert werden sollte
+- wann eine Strategie im Research bleiben muss
+- und wann **NO_TRADE** die bessere Entscheidung ist
+
+Research, Validierung und Evidence-Handling sollen stärker automatisiert werden, während Promotion, Execution-Berechtigungen und jede spätere Echtgeld-Nutzung ausdrücklich geregelt bleiben.
+
+Exakte private Strategielogik, Modellinternas und Execution-Regeln werden bewusst nicht veröffentlicht.
+
+## Research-Lifecycle
+
+HYPOTHESIS → QUICK → ROBUST_OOS → CHALLENGER → PAPER → CHAMPION
+
+Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion soll von reproduzierbarer Evidence und kontrolliertem Vergleich abhängen.
+
+## Aktuell geprüfter Stand
+
+| Bereich | Aktueller Stand |
+|---|---|
+| Research & Engineering | Aktiv; fokussierte Korrekturen an Research-Eingaben geprüft |
+| Paper / Shadow | Quellenpfade vorhanden; aktuelle Gesamtabnahme offen |
+| Paper-V2-/Learning-Pfad | Learning-Consumer vorhanden; kausaler wirtschaftlicher Uplift nicht bewiesen |
+| Evidence-/Learning-Pfad | Verknüpfung weiter verbessert; natürliche wirtschaftliche Wirkung bleibt offen |
+| Historische Performance-Reconciliation | Historische Interpretation reconciled; kein aktueller Profit-Claim |
+| Externe AI-Analyse | Aktueller Request-/Validierungs-Code geprüft; wirtschaftlicher Nutzen unbewiesen |
+| Demo Invite + Registrierung | Begrenzter Pfad früher nachgewiesen |
+| One-Session-Produkt-Parität | **Offen** |
+| Vollständige aktuelle WebUI-Abnahme | **Offen** |
+| Research Storage | Keine neue physische Größenprüfung; Shrink bleibt offen |
+| Multi-Venue-Kostenwahrheit | Aktueller Vertrag weiter; vollständige natürliche Kostentruth offen |
+| Öffentliche Anwendung / offene Demo | **Nicht verfügbar; Anwendung bleibt privat** |
+| Demo / Testnet Execution E2E | **Nicht bewiesen** |
+| Release / Distribution | **Offen** |
+| Live-Trading | In aktueller Konfiguration deaktiviert |
+| Echtgeldnutzung | In aktueller Konfiguration deaktiviert |
+| Training | In aktueller Konfiguration deaktiviert |
+| Automatische Promotion | Keine neue Promotion behauptet |
+
+Details: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md).
+
+## Evidence und Transparenz
+
+MIOIQ veröffentlicht ausgewählte geprüfte Projektstände, Research-Zusammenfassungen, Verifikationsergebnisse, Evidence, Entwicklungshistorie und bekannte Grenzen.
+
+Negative Ergebnisse bleiben sichtbar. Technischer Abschluss ist kein Beweis für Modellqualität, Profitabilität oder Live-Readiness.
+
+## MIOIQ unterstützen
+
+Wenn du die unabhängige Research- und Engineering-Arbeit unterstützen möchtest, kannst du das freiwillig über [GitHub Sponsors](https://github.com/sponsors/1545Christian) oder [Ko-fi](https://ko-fi.com/mioiq) tun. Beiträge helfen, Entwicklungszeit, Testinfrastruktur und öffentliche Dokumentation zu finanzieren. Unterstützung ist keine Investition und bietet weder Eigentum noch Rückzahlung, finanzielle Erträge, Trading-Signale, Anlageberatung oder garantierte Ergebnisse. Die MIOIQ-Anwendung bleibt privat; dieses Repository veröffentlicht Dokumentation und ausgewählte Evidence.
+
+## Öffentlich / privat
+
+Dieses Repository ist die **öffentliche Dokumentations- und Evidence-Schicht** von MIOIQ.
+
+Nicht enthalten sind privater Anwendungscode, Zugangsdaten, Kontokonfiguration, private Marktdatenbanken, private Model Bundles, proprietäre Strategieparameter, exakte Schwellen, Feature-/Label-Definitionen, Scoring-Logik, private Prompts, Execution-Formeln, Venue-Routing oder andere rekonstruktionssensitive Implementierungsdetails.
+
+Eine öffentliche MIOIQ-Anwendung wird derzeit nicht über dieses Repository zum Download angeboten.
+
+Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOPE_DE.md) und [Lizenzierung](docs/legal/LICENSING_DE.md).
+
+## Dokumentation
+
+- [Hier anfangen](docs/START_HERE_DE.md)
+- [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md)
+- [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
+- [Aktueller Status](CURRENT_STATUS_DE.md)
+- [Update vom 1. November](updates/2026-11-01-public-status_DE.md)
+- [Roadmap](docs/progress/ROADMAP_DE.md)
+- [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
+- [FAQ](docs/FAQ_DE.md)
+- [Glossar](docs/GLOSSARY_DE.md)
+- [Verifikation](docs/verification/TEST_RESULTS_DE.md)
+
+## Öffentliche Updates
+
+Kürzere Entwicklungs- und Research-Updates erscheinen auf Telegram:
+
+https://t.me/+BXzjABr9iQpjMTgy
+
+## Disclaimer
+
+MIOIQ ist ein Research- und Engineering-Projekt. Nichts in diesem Repository ist Finanz- oder Anlageberatung. Krypto- und Derivatehandel sind mit erheblichen Risiken verbunden. Historische, simulierte oder Paper-Ergebnisse garantieren keine zukünftigen Ergebnisse.
