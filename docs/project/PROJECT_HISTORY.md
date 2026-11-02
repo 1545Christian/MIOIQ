@@ -48,4 +48,4 @@ The approximately three-year personal development history is not independently p
 | Current direction | configurable multi-market research, ML training, validation and later controlled execution |
 <!-- AUTO_VALUES_END -->
 
-[Project direction](PROJECT_DIRECTION.md) · [Current status](../../CURRENT_STATUS.md) · [Latest update](../../updates/2026-11-01-public-status.md)
+[Project direction](PROJECT_DIRECTION.md) · [Current status](../../CURRENT_STATUS.md) · [Latest update](../../updates/README.md)

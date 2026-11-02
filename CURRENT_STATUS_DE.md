@@ -36,3 +36,7 @@ Implementierung, fokussierte Tests, geladene Runtime, abgeschlossene Consumer, B
 Siehe [Nachweisgrenzen](docs/verification/TEST_RESULTS_DE.md) und [Evidence-Übersicht](evidence/EVIDENCE_SUMMARY_DE.md). Ältere datierte Updates bleiben historische Momentaufnahmen.
 
 Nur Research und Engineering; keine Trading-Signale oder Anlageberatung.
+
+## Ergänzung vom 2. November 2026
+
+Der aktuelle Quellenabgleich bestätigt verstärkte bedingte Analyseprüfungen, angepasste Ausgabekapazität und erweiterten begrenzten Diagnosekontext. Vollständige neue Provider-/Speicherabnahme und spätere wirtschaftliche Wirkung bleiben unbewiesen. Siehe [aktuelles Update](updates/2026-11-02-public-status_DE.md).

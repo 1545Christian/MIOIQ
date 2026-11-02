@@ -133,6 +133,6 @@ Bitte vorher [CONTRIBUTING.md](../CONTRIBUTING.md) lesen.
 - [README](../README_DE.md)
 - [Projektrichtung](project/PROJECT_DIRECTION_DE.md)
 - [Aktueller Status](../CURRENT_STATUS_DE.md)
-- [Neuestes Update](../updates/2026-11-01-public-status_DE.md)
+- [Neuestes Update](../updates/README.md)
 - [Roadmap](progress/ROADMAP_DE.md)
 - [Evidence-Übersicht](../evidence/EVIDENCE_SUMMARY_DE.md)

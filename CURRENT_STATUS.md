@@ -36,3 +36,7 @@ Implementation, focused tests, loaded runtime, completed consumers, browser acce
 Read the [verification limits](docs/verification/TEST_RESULTS.md) and [evidence guide](evidence/EVIDENCE_SUMMARY.md). Earlier dated updates remain historical snapshots.
 
 Research and engineering only; no trading signals or investment advice.
+
+## November 2, 2026 addition
+
+Current source review confirms stronger conditional-analysis checks, adjusted output capacity and expanded bounded diagnostic context. Complete new provider/storage acceptance and later economic effect remain unproven. See the [latest update](updates/2026-11-02-public-status.md).

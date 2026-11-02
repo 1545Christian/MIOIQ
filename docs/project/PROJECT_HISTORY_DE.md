@@ -40,4 +40,4 @@ Das historische Exportregister enthält datierte Report-Metadaten bis **13. Sept
 | Canonical Memory / Learning | verknüpfte Outcome-/Learning-Evidence |
 | Aktuelle Richtung | konfigurierbarer marktübergreifender Research, ML und später kontrollierte Execution |
 
-[Projektrichtung](PROJECT_DIRECTION_DE.md) · [Aktueller Status](../../CURRENT_STATUS_DE.md) · [Neuestes Update](../../updates/2026-11-01-public-status_DE.md)
+[Projektrichtung](PROJECT_DIRECTION_DE.md) · [Aktueller Status](../../CURRENT_STATUS_DE.md) · [Neuestes Update](../../updates/README.md)

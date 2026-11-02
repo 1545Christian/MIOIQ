@@ -127,6 +127,6 @@ Please read [CONTRIBUTING.md](../CONTRIBUTING.md) before opening an issue.
 - [README](../README.md)
 - [Project Direction](project/PROJECT_DIRECTION.md)
 - [Current Status](../CURRENT_STATUS.md)
-- [Latest Update](../updates/2026-11-01-public-status.md)
+- [Latest Update](../updates/README.md)
 - [Roadmap](progress/ROADMAP.md)
 - [Evidence Summary](../evidence/EVIDENCE_SUMMARY.md)

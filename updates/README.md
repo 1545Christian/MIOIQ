@@ -8,10 +8,13 @@ The newest reviewed update should be read together with [CURRENT_STATUS.md](../C
 
 ## Latest reviewed update
 
-- [2026-11-01 — English](2026-11-01-public-status.md)
-- [2026-11-01 — Deutsch](2026-11-01-public-status_DE.md)
+- [2026-11-02 — English](2026-11-02-public-status.md)
+- [2026-11-02 — Deutsch](2026-11-02-public-status_DE.md)
 
 ## Previous reviewed updates
+
+- [2026-11-01 — English](2026-11-01-public-status.md)
+- [2026-11-01 — Deutsch](2026-11-01-public-status_DE.md)
 
 - [2026-10-25 — English](2026-10-25-public-status.md)
 - [2026-10-25 — Deutsch](2026-10-25-public-status_DE.md)
