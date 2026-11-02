@@ -11,6 +11,8 @@ Dieses Update ergänzt begrenzte Quellenbefunde seit dem [Dokuabgleich vom 1. No
 - Der bestehende begrenzte, nur lesende Diagnosekontext berücksichtigt jetzt geeignete Rechenrückmeldungen aus weiteren Teilen der strukturierten Analyse. Verfügbarkeit, Provenienz und Kompatibilität begrenzen weiterhin, was in späteren Kontext gelangen darf. Abgerufene Diagnosen sind weder realisierte Outcomes noch automatische Handelsanweisungen.
 - Lokale Fakten-, Kosten-, Risiko- und Berechtigungsprüfungen bleiben maßgeblich. Die erweiterte Analyse erzwingt keinen brauchbaren Tradeplan, senkt keine Ausführungsgrenze und erteilt keine Kapitalfreigabe.
 
+- Unvollständige Providerantworten werden nicht als vollständiger veröffentlichter Entscheidungsbestand behandelt. Diagnostisch auswertbare Teile ersetzen keine vollständige Antwort- und Speicherabnahme.
+
 ## Was die Evidence trägt
 
 Die aktuelle Quelle bestätigt diese Mechanismen und ihre relevanten Caller/Consumer. Datierte private Engineering-Receipts berichten fokussierte Regressionen. Diese berichteten Tests wurden für den Dokuauftrag nicht unabhängig wiederholt.

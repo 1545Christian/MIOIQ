@@ -4,6 +4,16 @@ Deutsch: [COMPLETED_WORK_DE.md](COMPLETED_WORK_DE.md)
 
 Reviewed: **November 1, 2026**. Older sections retain their historical scope. Engineering progress does not establish profitability or release readiness.
 
+## November 2 — source progress, no new product acceptance
+
+- Conditional-analysis checks strengthened; unavailable data distinguished from conditions not yet triggered.
+- Output capacity aligned with the expanded format; no usage or cost proof.
+- Bounded diagnostic context expanded with eligible arithmetic feedback.
+- Incomplete replies remain distinct from complete publication and storage acceptance.
+- Local factual, cost, risk and permission checks remain in force. Complete new provider/storage acceptance and economic benefit are not proven.
+
+See the [November 2 update](../../updates/2026-11-02-public-status.md). The following sections retain their historical scope.
+
 ## October 26–November 1 — current source/documentation review
 
 - Self-contained installation configuration and its consumers inspected in current code.
@@ -13,7 +23,7 @@ Reviewed: **November 1, 2026**. Older sections retain their historical scope. En
 - Current decision/outcome/learning and trade readers exist; broader acceptance remains partial.
 - Engineering receipts report focused regressions. This documentation task does not rerun the private application suite.
 
-Current source can supersede intermediate repair descriptions. A source finding is not new runtime, browser, performance or profitability proof. See the [latest update](../../updates/2026-11-01-public-status.md).
+Current source can supersede intermediate repair descriptions. A source finding is not new runtime, browser, performance or profitability proof. See the [then-current update](../../updates/2026-11-01-public-status.md).
 
 ## October 4–7 — reviewed progress
 

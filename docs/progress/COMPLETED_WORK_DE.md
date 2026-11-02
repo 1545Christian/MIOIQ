@@ -4,6 +4,16 @@ English: [COMPLETED_WORK.md](COMPLETED_WORK.md)
 
 Abgleich: **1. November 2026**. Ältere Abschnitte behalten ihren historischen Prüfumfang. Technische Fortschritte belegen keine Profitabilität oder Release-Reife.
 
+## 2. November — Quellenfortschritt, keine neue Produktabnahme
+
+- Bedingte Analyseprüfungen verstärkt; fehlende Daten und noch nicht eingetretene Bedingungen getrennt.
+- Ausgabekapazität an das erweiterte Format angepasst; kein Verbrauchs- oder Kostenbeweis.
+- Begrenzter Diagnosekontext um geeignete Rechenrückmeldungen erweitert.
+- Unvollständige Antworten bleiben von vollständiger Veröffentlichung und Speicherabnahme getrennt.
+- Lokale Fakten-, Kosten-, Risiko- und Berechtigungsprüfungen bleiben bestehen. Vollständige neue Provider-/Speicherabnahme und wirtschaftlicher Nutzen sind nicht belegt.
+
+Siehe [Update vom 2. November](../../updates/2026-11-02-public-status_DE.md). Die folgenden Abschnitte sind historische Teilbelege.
+
 ## 26. Oktober–1. November — aktueller Quellen-/Dokuabgleich
 
 - Eigenständige Installationskonfiguration und ihre Consumer im aktuellen Code geprüft.
@@ -13,7 +23,7 @@ Abgleich: **1. November 2026**. Ältere Abschnitte behalten ihren historischen P
 - Aktuelle Decision-/Outcome-/Learning- und Trade-Reader vorhanden; ihre übergreifende Abnahme bleibt teilweise offen.
 - Engineering-Receipts berichten fokussierte Regressionen. Dieser Dokuauftrag wiederholt keine private Anwendungstestsuite.
 
-Die aktuelle Quelle kann ältere Reparatur-Zwischenstände ersetzen. Ein Source-Befund ist kein neuer Laufzeit-, Browser-, Performance- oder Profitabilitätsnachweis. Siehe [aktuelles Update](../../updates/2026-11-01-public-status_DE.md).
+Die aktuelle Quelle kann ältere Reparatur-Zwischenstände ersetzen. Ein Source-Befund ist kein neuer Laufzeit-, Browser-, Performance- oder Profitabilitätsnachweis. Siehe [damaliges Update](../../updates/2026-11-01-public-status_DE.md).
 
 ## 4.–12. Oktober — überprüfte Fortschritte
 

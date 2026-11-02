@@ -37,9 +37,9 @@ Dies ist die zentrale Übersicht der öffentlichen MIOIQ-Dokumentation. Neue Les
 
 ## Updates
 
-Aktuelle und frühere Entwicklungsberichte stehen im [Update-Archiv](../updates/README.md). Historische Updates bleiben unverändert und können inzwischen überholte Statusangaben enthalten.
+Aktuelle und frühere Entwicklungsberichte stehen im [Update-Archiv](../updates/README.md). Historische Updates behalten ihren damaligen Nachweisumfang; gekennzeichnete Datenschutzredaktionen sind möglich. Ihre Statusangaben können inzwischen überholt sein.
 
-Aktueller Abgleich: [1. November 2026](../updates/2026-11-01-public-status_DE.md).
+Neue Quellen-Ergänzung: [2. November 2026](../updates/2026-11-02-public-status_DE.md). Der vollständige frühere Abgleich bleibt unten datiert.
 
 ## Umfang des vollständigen Dokuabgleichs
 

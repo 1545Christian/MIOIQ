@@ -11,6 +11,8 @@ This update adds bounded source findings since the [November 1 documentation rev
 - The existing bounded, read-only diagnostic-context path now also considers eligible arithmetic feedback from more of the structured analysis. Availability, provenance and compatibility checks still constrain what can enter later context. Retrieved diagnostics are not realized outcomes or automatic trading instructions.
 - Local checks of facts, costs, risk and execution permission remain authoritative. Expanded analysis does not force a viable plan, lower an execution gate or grant capital access.
 
+- Incomplete provider responses are not treated as a complete published decision set. Parts usable for diagnostics do not substitute for complete response and storage acceptance.
+
 ## What the evidence supports
 
 Current source confirms these mechanisms and their relevant callers/consumers. Dated private engineering receipts report focused regression checks. Those reported tests were not independently rerun for this documentation task.

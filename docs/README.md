@@ -39,7 +39,7 @@ If you are new to the project, start with [START_HERE.md](START_HERE.md). It exp
 
 ## Updates
 
-Latest reviewed: [November 1, 2026](../updates/2026-11-01-public-status.md).
+Latest source addition: [November 2, 2026](../updates/2026-11-02-public-status.md). The earlier complete review remains dated below.
 
 Dated development summaries are collected in the [updates archive](../updates/README.md).
 
