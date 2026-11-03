@@ -21,3 +21,7 @@ Current configuration disables live execution, real-capital use and training. So
 Details: [current status](../../CURRENT_STATUS.md) · [November 1 update](../../updates/2026-11-01-public-status.md) · [verification limits](../verification/TEST_RESULTS.md).
 
 Earlier dated updates remain historical evidence; this roadmap does not restate their test results as current.
+
+## November 3 addition
+
+Additional acceptance needs cover complete adoption of the new candidate/cost checks by affected processes, a complete new Gemini request/storage path, consistent modeled-cost presentation, and independent economic evaluation. Storage deduplication is not physical shrink. [New update](../../updates/2026-11-03-public-status.md).

@@ -86,3 +86,7 @@ Logical cleanup is not physical shrink.
 A scoped browser PASS is not whole-product UI acceptance.
 
 Code cleanup is not release readiness.
+
+## November 3 — bounded source progress
+
+Newly documented work covers local candidate checks, Gemini analysis with cost calculations, referenced snapshot content, state-preserving handoffs, and export/cost-display corrections. Some runtime adoption and economic effectiveness remain open. [New update](../../updates/2026-11-03-public-status.md).

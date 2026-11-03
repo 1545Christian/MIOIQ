@@ -21,3 +21,7 @@ Die aktuelle Konfiguration deaktiviert Live-Ausführung, Echtgeldnutzung und Tra
 Details: [aktueller Status](../../CURRENT_STATUS_DE.md) · [Update vom 1. November](../../updates/2026-11-01-public-status_DE.md) · [Nachweisgrenzen](../verification/TEST_RESULTS_DE.md).
 
 Frühere datierte Updates bleiben historische Belege; diese Roadmap ist keine neue Aussage über damalige Testresultate.
+
+## Ergänzung vom 3. November
+
+Zusätzlich nachzuweisen sind die vollständige Übernahme der neuen Kandidaten- und Kostenprüfungen in die betroffenen Prozesse, ein vollständiger neuer Gemini-Anfrage-/Speicherweg, die konsistente Modellkostenanzeige sowie unabhängige wirtschaftliche Bewertung. Speicher-Deduplizierung ist keine physische Verkleinerung. [Neues Update](../../updates/2026-11-03-public-status_DE.md).

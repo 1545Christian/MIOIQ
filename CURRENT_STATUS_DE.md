@@ -40,3 +40,9 @@ Nur Research und Engineering; keine Trading-Signale oder Anlageberatung.
 ## Ergänzung vom 2. November 2026
 
 Der aktuelle Quellenabgleich bestätigt verstärkte bedingte Analyseprüfungen, angepasste Ausgabekapazität und erweiterten begrenzten Diagnosekontext. Vollständige neue Provider-/Speicherabnahme und spätere wirtschaftliche Wirkung bleiben unbewiesen. Siehe [aktuelles Update](updates/2026-11-02-public-status_DE.md).
+
+## Ergänzung vom 3. November 2026
+
+Neu geprüft sind lokale Paper-Kandidatenprüfungen, der Gemini-Analysepfad mit Kostenberechnung, gemeinsam gespeicherte Snapshot-Inhalte und Schutzmaßnahmen für Übergaben und den öffentlichen Export. Begrenzte Kosten- und Anzeigeänderungen unterscheiden Modellrechnung und tatsächliche Abrechnung. Einzelne Laufzeitübernahmen und neue vollständige Provider-/Speicherabnahmen bleiben offen; physische Datenbankverkleinerung und wirtschaftlicher Vorteil sind nicht belegt.
+
+Siehe [Update vom 3. November](updates/2026-11-03-public-status_DE.md). Frühere Abschnitte behalten ihren datierten Umfang; dieses Update ist keine Gesamt- oder Release-Abnahme.

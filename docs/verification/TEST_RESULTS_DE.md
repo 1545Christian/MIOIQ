@@ -51,3 +51,7 @@ Source → fokussierte Tests → geladene Runtime → abgeschlossener Consumer �
 Keine Ebene beweist automatisch die nächste. Ein syntaktisch gültiges KI-Ergebnis, eine NO_TRADE-Entscheidung oder ein gespeicherter Learning-Link beweist keinen wirtschaftlichen Nutzen.
 
 [Aktueller Status](../../CURRENT_STATUS_DE.md) · [Aktuelles Update](../../updates/2026-11-01-public-status_DE.md) · [Evidence-Übersicht](../../evidence/EVIDENCE_SUMMARY_DE.md)
+
+## Prüfgrenze des Abgleichs vom 3. November
+
+Die neuen öffentlichen Ergänzungen beruhen auf begrenzter Quellprüfung und vorhandenen technischen Belegen. Frühere Testergebnisse werden nicht als neuer Gesamttest ausgegeben. Dieser Dokumentationsabgleich führt keine privaten Produktprüfungen oder Provideranfragen aus. Aktuelle Laufzeit-, Browser-, Release- und wirtschaftliche Gesamtabnahme bleiben getrennte Anforderungen. [Neues Update](../../updates/2026-11-03-public-status_DE.md).

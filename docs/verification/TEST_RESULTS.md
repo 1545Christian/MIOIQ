@@ -51,3 +51,7 @@ Source → focused tests → loaded runtime → completed consumer → browser a
 No layer automatically proves the next. Syntactically valid AI output, a NO_TRADE decision or a stored learning link does not establish economic benefit.
 
 [Current status](../../CURRENT_STATUS.md) · [Latest update](../../updates/2026-11-01-public-status.md) · [Evidence guide](../../evidence/EVIDENCE_SUMMARY.md)
+
+## November 3 review boundary
+
+The new public additions rely on bounded source inspection and existing engineering evidence. Earlier test results are not presented as a new full regression. This documentation review performs no private product tests or provider requests. Current runtime, browser, release and economic acceptance remain separate requirements. [New update](../../updates/2026-11-03-public-status.md).

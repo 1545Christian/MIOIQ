@@ -40,3 +40,9 @@ Research and engineering only; no trading signals or investment advice.
 ## November 2, 2026 addition
 
 Current source review confirms stronger conditional-analysis checks, adjusted output capacity and expanded bounded diagnostic context. Complete new provider/storage acceptance and later economic effect remain unproven. See the [latest update](updates/2026-11-02-public-status.md).
+
+## November 3, 2026 source and evidence addition
+
+Newly reviewed source covers local Paper candidate checks, the Gemini analysis and cost-calculation path, shared snapshot content, and safeguards for handoffs and public export. Scoped cost/presentation changes distinguish model calculations from actual settlement. Some runtime adoption and complete new provider/storage acceptance remain open; physical database shrink and economic benefit are not established.
+
+See the [November 3 update](updates/2026-11-03-public-status.md). Earlier sections retain their dated scope; this addition is not full product or release acceptance.

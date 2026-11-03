@@ -65,3 +65,7 @@ Die aktuelle Quelle kann ältere Reparatur-Zwischenstände ersetzen. Ein Source-
 
 ## Interpretation
 Source-Fix ≠ aktive Runtime. Provider-Aufruf ≠ Profitabilität. Learning-Kontext ≠ kausaler Uplift. Logische Compaction ≠ physischer Shrink. Teilweiser Browser-PASS ≠ Produktabnahme. Cleanup ≠ Release-Readiness.
+
+## 3. November — begrenzter Quellfortschritt
+
+Neu dokumentiert sind lokale Kandidatenprüfungen, Gemini-Analyse mit Kostenrechnung, referenzierte Snapshot-Inhalte, zustandserhaltende Übergaben sowie Export- und Kostenanzeigekorrekturen. Einzelne Laufzeitübernahmen und die wirtschaftliche Wirksamkeit bleiben offen. [Neues Update](../../updates/2026-11-03-public-status_DE.md).
