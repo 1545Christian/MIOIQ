@@ -16,6 +16,18 @@ New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHIT
 
 > **Public repository note:** this repository documents the project and selected evidence. It is not a download of the private MIOIQ trading application.
 
+## What you can learn here
+
+If you build with AI or evaluate quantitative research, use MIOIQ as a documented case study:
+
+- See how development claims are checked against evidence, and how completed checks are separated from open questions.
+- Learn why simulated results, trading costs and negative findings matter when judging a research claim.
+- Follow practical lessons from AI-assisted software development, without needing access to the private application.
+
+Start with the [reader guide](docs/START_HERE.md), then compare the [latest reviewed update](updates/2026-11-03-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
+
+The application remains private, with no public download or open demo. These materials do not establish a profitable trading edge or provide trading signals.
+
 ## Overview
 
 MIOIQ combines quantitative market analysis, market-state and regime research, rule-based and ML validation, evidence-linked Decision → Outcome → Learning workflows, external AI-assisted analysis, Paper / Shadow execution, lifecycle governance and future Demo / Packaging / Release work.
