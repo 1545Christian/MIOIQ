@@ -16,6 +16,18 @@ Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/A
 
 > **Hinweis zum öffentlichen Repository:** Dieses Repository dokumentiert das Projekt und ausgewählte Evidence. Es ist kein Download der privaten MIOIQ-Trading-Anwendung.
 
+## Was du hier mitnehmen kannst
+
+Wenn du mit KI entwickelst oder quantitative Forschung beurteilen möchtest, kannst du MIOIQ als dokumentierte Fallstudie nutzen:
+
+- Sieh nach, wie Entwicklungsaussagen anhand von Belegen geprüft und abgeschlossene Prüfungen von offenen Fragen getrennt werden.
+- Erfahre, warum simulierte Ergebnisse, Handelskosten und negative Befunde bei der Beurteilung von Research-Aussagen wichtig sind.
+- Verfolge praktische Erfahrungen aus der KI-gestützten Softwareentwicklung, ohne Zugang zur privaten Anwendung zu benötigen.
+
+Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste geprüfte Update](updates/2026-11-03-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
+
+Die Anwendung bleibt privat; einen öffentlichen Download oder eine offene Demo gibt es nicht. Die Inhalte belegen keinen profitablen Trading-Vorteil und bieten keine Trading-Signale.
+
 ## Überblick
 
 MIOIQ verbindet quantitative Marktanalyse, Market-State- und Regime-Research, Rule- und ML-Validierung, evidence-verknüpfte Decision → Outcome → Learning-Workflows, externe AI-gestützte Analyse, Paper-/Shadow-Ausführung, Lifecycle-Governance und spätere Demo-/Packaging-/Release-Arbeit.
