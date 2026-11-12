@@ -7,7 +7,8 @@ MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestüt
 
 English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
-Neuestes geprüftes Update: [3. November 2026](updates/2026-11-03-public-status_DE.md)<br>
+Neuestes dokumentiertes Engineering-Update: [12. November 2026](updates/2026-11-12-public-status_DE.md) · [English](updates/2026-11-12-public-status.md)<br>
+Engineering-Changelog: [Deutsch](CHANGELOG_DE.md) · [English](CHANGELOG.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 Neu hier? [Hier anfangen](docs/START_HERE_DE.md) · [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md) · [Dokumentationsübersicht](docs/README_DE.md)
@@ -24,7 +25,7 @@ Wenn du mit KI entwickelst oder quantitative Forschung beurteilen möchtest, kan
 - Erfahre, warum simulierte Ergebnisse, Handelskosten und negative Befunde bei der Beurteilung von Research-Aussagen wichtig sind.
 - Verfolge praktische Erfahrungen aus der KI-gestützten Softwareentwicklung, ohne Zugang zur privaten Anwendung zu benötigen.
 
-Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste geprüfte Update](updates/2026-11-03-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
+Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste dokumentierte Engineering-Update](updates/2026-11-12-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
 
 Die Anwendung bleibt privat; einen öffentlichen Download oder eine offene Demo gibt es nicht. Die Inhalte belegen keinen profitablen Trading-Vorteil und bieten keine Trading-Signale.
 
@@ -55,6 +56,10 @@ Exakte private Strategielogik, Modellinternas und Execution-Regeln werden bewuss
 HYPOTHESIS → QUICK → ROBUST_OOS → CHALLENGER → PAPER → CHAMPION
 
 Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion soll von reproduzierbarer Evidence und kontrolliertem Vergleich abhängen.
+
+## Neu dokumentierte technische Updates
+
+Die öffentlichen Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 beschreiben Verbesserungen an Ausführungsverträgen, historischen Positions-/Fill-Prüfungen, konsistenten Paper-/Watch-Metriken, Wiederherstellung und Rollback, Ablauftrennung sowie Release-Integrität. Die Zusammenfassung behauptet keine aktuelle Runtime-Abnahme oder Profitabilität. Details: [deutscher Engineering-Changelog](CHANGELOG_DE.md) und [Update vom 12. November](updates/2026-11-12-public-status_DE.md).
 
 ## Aktuell geprüfter Stand
 
@@ -107,6 +112,8 @@ Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOP
 - [Architektur](docs/project/ARCHITECTURE_OVERVIEW_DE.md)
 - [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
 - [Aktueller Status](CURRENT_STATUS_DE.md)
+- [Engineering-Changelog](CHANGELOG_DE.md)
+- [Update vom 12. November](updates/2026-11-12-public-status_DE.md)
 - [Update vom 3. November](updates/2026-11-03-public-status_DE.md)
 - [Roadmap](docs/progress/ROADMAP_DE.md)
 - [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
