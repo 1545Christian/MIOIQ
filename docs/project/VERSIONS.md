@@ -19,4 +19,4 @@ This page records evidence categories, not a private application release manifes
 
 Private build IDs, paths and implementation fingerprints remain unpublished. Source, generated artifacts, loaded processes, consumers and economic outcomes require their own evidence. A historical report remains historical despite a newer generation date.
 
-[Current status](../../CURRENT_STATUS.md) · [Latest update](../../updates/2026-11-01-public-status.md)
+[Current status](../../CURRENT_STATUS.md) · [Latest documented update](../../updates/2026-11-12-public-status.md) · [Engineering changelog](../../CHANGELOG.md)
