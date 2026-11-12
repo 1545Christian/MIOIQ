@@ -2,6 +2,8 @@
 
 Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
 
+Latest documentation update: [November 12, 2026](updates/2026-11-12-public-status.md) · [Deutsch](updates/2026-11-12-public-status_DE.md). This is a documentation summary of release notes; the status review date below is unchanged and no new runtime acceptance is implied.
+
 Reviewed: **November 1, 2026**. This bounded source/documentation review supersedes the October 25 current-status summary. It is not a full runtime or release acceptance.
 
 ## Current project state
