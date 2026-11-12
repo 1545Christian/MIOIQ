@@ -69,3 +69,10 @@ Source-Fix ≠ aktive Runtime. Provider-Aufruf ≠ Profitabilität. Learning-Kon
 ## 3. November — begrenzter Quellfortschritt
 
 Neu dokumentiert sind lokale Kandidatenprüfungen, Gemini-Analyse mit Kostenrechnung, referenzierte Snapshot-Inhalte, zustandserhaltende Übergaben sowie Export- und Kostenanzeigekorrekturen. Einzelne Laufzeitübernahmen und die wirtschaftliche Wirksamkeit bleiben offen. [Neues Update](../../updates/2026-11-03-public-status_DE.md).
+
+
+## 12. November — zusammengefasste öffentliche Release-Notizen
+
+Öffentliche Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 dokumentieren eine bessere Abstimmung zwischen Research und Paper über einen gemeinsamen versionierten Ausführungsvertrag; Konsistenzprüfungen historischer Positions-/Fill-Datensätze; Snapshot-basierte Paper-/Watch-Metriken mit Trennung offener und realisierter Ergebnisse; Wiederherstellungs-/Rollback-Schutz; klarere Zuordnung von Paper, Shadow, Watch und Referenzabläufen; Warnungen bei unvollständigem/inaktivem Runtime-Status; sowie stärkere Integritätsprüfungen für Release-Artefakte.
+
+Dies fasst Release-Dokumentation zusammen. Es verifiziert nicht unabhängig den aktuellen Quellstand, geladene Runtime, vollständige Abnahme, wirtschaftliche Leistung oder Live-Bereitschaft. Siehe [Update vom 12. November](../../updates/2026-11-12-public-status_DE.md) und [Engineering-Changelog](../../CHANGELOG_DE.md).
