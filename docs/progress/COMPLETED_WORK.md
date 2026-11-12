@@ -90,3 +90,10 @@ Code cleanup is not release readiness.
 ## November 3 — bounded source progress
 
 Newly documented work covers local candidate checks, Gemini analysis with cost calculations, referenced snapshot content, state-preserving handoffs, and export/cost-display corrections. Some runtime adoption and economic effectiveness remain open. [New update](../../updates/2026-11-03-public-status.md).
+
+
+## November 12 — consolidated public release notes
+
+Public release notes v90.8.5.17 through v90.8.5.23 R3 now document stronger alignment between research and Paper workflows through a shared versioned execution contract; consistency checks for historical position/fill records; snapshot-based Paper/Watch metrics that distinguish open from realized results; recovery/rollback safeguards; clearer attribution across Paper, Shadow, Watch and reference workflows; warnings for incomplete/inactive runtime state; and stronger release-artifact integrity checks.
+
+This consolidates release documentation. It does not independently verify current source, loaded runtime, full acceptance, economic performance or live readiness. See the [November 12 update](../../updates/2026-11-12-public-status.md) and [engineering changelog](../../CHANGELOG.md).
