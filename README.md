@@ -7,7 +7,8 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
-Latest reviewed update: [November 3, 2026](updates/2026-11-03-public-status.md)<br>
+Latest documented engineering update: [November 12, 2026](updates/2026-11-12-public-status.md) · [Deutsch](updates/2026-11-12-public-status_DE.md)<br>
+Engineering changelog: [English](CHANGELOG.md) · [Deutsch](CHANGELOG_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Support: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
 New here? [Start here](docs/START_HERE.md) · [Architecture](docs/project/ARCHITECTURE_OVERVIEW.md) · [Documentation map](docs/README.md)
@@ -24,7 +25,7 @@ If you build with AI or evaluate quantitative research, use MIOIQ as a documente
 - Learn why simulated results, trading costs and negative findings matter when judging a research claim.
 - Follow practical lessons from AI-assisted software development, without needing access to the private application.
 
-Start with the [reader guide](docs/START_HERE.md), then compare the [latest reviewed update](updates/2026-11-03-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
+Start with the [reader guide](docs/START_HERE.md), then compare the [latest documented engineering update](updates/2026-11-12-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
 
 The application remains private, with no public download or open demo. These materials do not establish a profitable trading edge or provide trading signals.
 
