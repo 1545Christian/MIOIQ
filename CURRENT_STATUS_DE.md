@@ -2,6 +2,8 @@
 
 English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
+Neuestes Dokumentationsupdate: [12. November 2026](updates/2026-11-12-public-status_DE.md) · [English](updates/2026-11-12-public-status.md). Dies ist eine Zusammenfassung öffentlicher Release-Notizen; das unten angegebene Prüfdatum bleibt unverändert und es wird keine neue Runtime-Abnahme behauptet.
+
 Geprüft: **1. November 2026**. Dieser begrenzte Quellen-/Dokuabgleich ersetzt die Statuszusammenfassung vom 25. Oktober. Er ist keine vollständige Runtime- oder Release-Abnahme.
 
 ## Aktueller Projektstand
