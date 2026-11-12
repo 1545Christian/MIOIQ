@@ -39,7 +39,9 @@ If you are new to the project, start with [START_HERE.md](START_HERE.md). It exp
 
 ## Updates
 
-Latest source addition: [November 3, 2026](../updates/2026-11-03-public-status.md). The earlier complete review remains dated below.
+- [Engineering changelog](../CHANGELOG.md) · [German](../CHANGELOG_DE.md)
+
+Latest documented engineering update: [November 12, 2026](../updates/2026-11-12-public-status.md) · [Deutsch](../updates/2026-11-12-public-status_DE.md). See the [engineering changelog](../CHANGELOG.md) · [German](../CHANGELOG_DE.md). The complete documentation review remains dated below; this update does not refresh runtime acceptance.
 
 Dated development summaries are collected in the [updates archive](../updates/README.md).
 
