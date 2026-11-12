@@ -56,6 +56,19 @@ HYPOTHESIS → QUICK → ROBUST_OOS → CHALLENGER → PAPER → CHAMPION
 
 A newer model does not become active simply because it is newer. Promotion is intended to depend on reproducible evidence and controlled comparison.
 
+## Recent engineering focus
+
+Recent documented work focuses on:
+
+- keeping research evaluation and paper execution aligned through a shared, versioned execution contract;
+- checking release artifacts and runtime state before changes are accepted;
+- recovering interrupted state changes and preserving consistent runtime configuration;
+- keeping paper, shadow, watch and reference observations separately attributable;
+- calculating displayed metrics from a consistent snapshot and making incomplete state visible;
+- processing market-history records consistently before they are used in research.
+
+These are engineering and verification improvements. They do not establish profitability or prove that a particular runtime is currently active.
+
 ## Current reviewed status
 
 | Area | Current state |
