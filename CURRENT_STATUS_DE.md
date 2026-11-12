@@ -48,3 +48,8 @@ Der aktuelle Quellenabgleich bestätigt verstärkte bedingte Analyseprüfungen, 
 Neu geprüft sind lokale Paper-Kandidatenprüfungen, der Gemini-Analysepfad mit Kostenberechnung, gemeinsam gespeicherte Snapshot-Inhalte und Schutzmaßnahmen für Übergaben und den öffentlichen Export. Begrenzte Kosten- und Anzeigeänderungen unterscheiden Modellrechnung und tatsächliche Abrechnung. Einzelne Laufzeitübernahmen und neue vollständige Provider-/Speicherabnahmen bleiben offen; physische Datenbankverkleinerung und wirtschaftlicher Vorteil sind nicht belegt.
 
 Siehe [Update vom 3. November](updates/2026-11-03-public-status_DE.md). Frühere Abschnitte behalten ihren datierten Umfang; dieses Update ist keine Gesamt- oder Release-Abnahme.
+
+
+## Dokumentationshinweis vom 12. November 2026
+
+Die öffentlichen Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 sind jetzt im [Engineering-Changelog](CHANGELOG_DE.md) und im [datierten Update](updates/2026-11-12-public-status_DE.md) zusammengefasst. Sie dokumentieren gemeinsame Ausführungsvertragsprüfungen, Konsistenz historischer Datensätze, Snapshot-basierte Paper-/Watch-Metriken, Wiederherstellungs- und Rollback-Schutz, Zuordnung getrennter Abläufe, Runtime-Warnungen und Integritätsprüfungen für Release-Artefakte. Diese Zusammenfassung öffentlicher Release-Dokumente ändert das oben genannte Prüfdatum nicht und belegt weder aktuelle Runtime-Abnahme noch Profitabilität oder Live-Bereitschaft.
