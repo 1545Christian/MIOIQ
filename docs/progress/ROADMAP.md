@@ -18,10 +18,15 @@ Reviewed: **November 1, 2026**. The following acceptance criteria remain open; e
 
 Current configuration disables live execution, real-capital use and training. Source progress does not automatically close a product criterion. Full release/manifest parity remains open.
 
-Details: [current status](../../CURRENT_STATUS.md) · [November 1 update](../../updates/2026-11-01-public-status.md) · [verification limits](../verification/TEST_RESULTS.md).
+Details: [current status](../../CURRENT_STATUS.md) · [latest documented update](../../updates/2026-11-13-public-status.md) · [verification limits](../verification/TEST_RESULTS.md).
 
 Earlier dated updates remain historical evidence; this roadmap does not restate their test results as current.
 
 ## November 3 addition
 
 Additional acceptance needs cover complete adoption of the new candidate/cost checks by affected processes, a complete new Gemini request/storage path, consistent modeled-cost presentation, and independent economic evaluation. Storage deduplication is not physical shrink. [New update](../../updates/2026-11-03-public-status.md).
+
+
+## November 13 clarification
+
+Release notes through v90.8.5.23 R3 document improvements to contract compatibility, history consistency, interrupted-state recovery, workflow attribution, snapshot-based metrics, runtime warnings and package integrity. These documented changes do not close the open acceptance criteria in the table: loaded-service identity, complete natural cycles, full browser acceptance, independent economic benefit and reproducible release/recovery evidence remain separate. [Documentation update](../../updates/2026-11-13-public-status.md).
