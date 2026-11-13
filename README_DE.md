@@ -7,7 +7,7 @@ MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestüt
 
 English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
-Neuestes dokumentiertes Engineering-Update: [12. November 2026](updates/2026-11-12-public-status_DE.md) · [English](updates/2026-11-12-public-status.md)<br>
+Neuestes dokumentiertes Engineering-Update: [13. November 2026](updates/2026-11-13-public-status_DE.md) · [English](updates/2026-11-13-public-status.md)<br>
 Engineering-Changelog: [Deutsch](CHANGELOG_DE.md) · [English](CHANGELOG.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
@@ -25,7 +25,7 @@ Wenn du mit KI entwickelst oder quantitative Forschung beurteilen möchtest, kan
 - Erfahre, warum simulierte Ergebnisse, Handelskosten und negative Befunde bei der Beurteilung von Research-Aussagen wichtig sind.
 - Verfolge praktische Erfahrungen aus der KI-gestützten Softwareentwicklung, ohne Zugang zur privaten Anwendung zu benötigen.
 
-Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste dokumentierte Engineering-Update](updates/2026-11-12-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
+Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste dokumentierte Engineering-Update](updates/2026-11-13-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
 
 Die Anwendung bleibt privat; einen öffentlichen Download oder eine offene Demo gibt es nicht. Die Inhalte belegen keinen profitablen Trading-Vorteil und bieten keine Trading-Signale.
 
@@ -59,7 +59,17 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 
 ## Neu dokumentierte technische Updates
 
-Die öffentlichen Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 beschreiben Verbesserungen an Ausführungsverträgen, historischen Positions-/Fill-Prüfungen, konsistenten Paper-/Watch-Metriken, Wiederherstellung und Rollback, Ablauftrennung sowie Release-Integrität. Die Zusammenfassung behauptet keine aktuelle Runtime-Abnahme oder Profitabilität. Details: [deutscher Engineering-Changelog](CHANGELOG_DE.md) und [Update vom 12. November](updates/2026-11-12-public-status_DE.md).
+Öffentliche Release-Notizen bis v90.8.5.23 R3 beschreiben:
+
+- einen gemeinsamen, versionierten Vertrag zur Abstimmung von Research-Auswertung und Paper-Ausführung;
+- stärkere Konsistenzprüfungen für normalisierte historische Positions- und Fill-Datensätze;
+- Wiederherstellungs- und Rollback-Schutz bei unterbrochenen Zustandsänderungen;
+- klarere Trennung und Zuordnung von Paper-, Shadow-, Watch- und Referenzabläufen;
+- konsistente Paper-/Watch-Metrik-Snapshots, die offene von realisierten Ergebnissen trennen;
+- sichtbare Warnungen bei unvollständigem oder inaktivem Runtime-Status und stärkere Integritätsprüfungen für Release-Artefakte;
+- einen getrennten Research-Kandidatenpfad ohne automatische Übernahme.
+
+Das ist eine Zusammenfassung der Release-Dokumentation und keine neue Quellen- oder Runtime-Abnahme. Profitabilität und Live-Bereitschaft werden dadurch nicht belegt.
 
 ## Aktuell geprüfter Stand
 
