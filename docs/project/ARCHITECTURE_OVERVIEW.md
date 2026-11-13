@@ -112,6 +112,12 @@ A future Connected Demo is still not Live trading, and a future public/client pa
 
 Live-readiness remains later work behind controlled simulation and stability proof. Exact venue/account rollout order is private.
 
+## Recent documented safeguards
+
+Release notes through v90.8.5.23 R3 describe a shared versioned contract between research evaluation and Paper execution; recovery and rollback safeguards for interrupted state changes; clearer separation and attribution across Paper, Shadow, Watch and reference workflows; consistent metric snapshots that distinguish open positions from realized outcomes; and visible warnings for incomplete runtime state. New research candidates remain separate from the active simulated workflow and are not automatically promoted.
+
+This is a summary of release documentation, not proof of current loaded behavior or complete acceptance. See the [November 13 update](../../updates/2026-11-13-public-status.md).
+
 ## Why the architecture is built this way
 
 The project is trying to answer a harder question than “can a model predict price?”
