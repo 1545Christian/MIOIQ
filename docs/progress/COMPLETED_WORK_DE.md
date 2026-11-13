@@ -76,3 +76,10 @@ Neu dokumentiert sind lokale Kandidatenprüfungen, Gemini-Analyse mit Kostenrech
 Öffentliche Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 dokumentieren eine bessere Abstimmung zwischen Research und Paper über einen gemeinsamen versionierten Ausführungsvertrag; Konsistenzprüfungen historischer Positions-/Fill-Datensätze; Snapshot-basierte Paper-/Watch-Metriken mit Trennung offener und realisierter Ergebnisse; Wiederherstellungs-/Rollback-Schutz; klarere Zuordnung von Paper, Shadow, Watch und Referenzabläufen; Warnungen bei unvollständigem/inaktivem Runtime-Status; sowie stärkere Integritätsprüfungen für Release-Artefakte.
 
 Dies fasst Release-Dokumentation zusammen. Es verifiziert nicht unabhängig den aktuellen Quellstand, geladene Runtime, vollständige Abnahme, wirtschaftliche Leistung oder Live-Bereitschaft. Siehe [Update vom 12. November](../../updates/2026-11-12-public-status_DE.md) und [Engineering-Changelog](../../CHANGELOG_DE.md).
+
+
+## 13. November — zusammengefasste Release-Notizen
+
+Die öffentlichen Notizen bis v90.8.5.23 R3 dokumentieren einen gemeinsamen versionierten Vertrag zwischen Research und Paper-Ausführung; stärkere Normalisierung und Konsistenzprüfungen historischer Datensätze; Wiederherstellungs- und Rollback-Schutz; klarere Zuordnung von Paper-, Shadow-, Watch- und Referenzabläufen; Snapshot-basierte Metriken mit Trennung offener und realisierter Ergebnisse; sichtbare Warnungen bei unvollständigem Runtime-Status; sowie stärkere Integritätsprüfungen für Release-Artefakte. Neue Research-Kandidaten bleiben vom aktiven simulierten Ablauf getrennt und werden nicht automatisch übernommen.
+
+Dies fasst bestehende Release-Dokumentation zusammen und ist keine neue Quellen- oder Runtime-Abnahme. Release-, Wirtschafts- und Live-Bereitschaftskriterien bleiben offen. Siehe [Update vom 13. November](../../updates/2026-11-13-public-status_DE.md).
