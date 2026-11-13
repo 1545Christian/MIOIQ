@@ -41,7 +41,7 @@ Dies ist die zentrale Übersicht der öffentlichen MIOIQ-Dokumentation. Neue Les
 
 Aktuelle und frühere Entwicklungsberichte stehen im [Update-Archiv](../updates/README.md). Historische Updates behalten ihren damaligen Nachweisumfang; gekennzeichnete Datenschutzredaktionen sind möglich. Ihre Statusangaben können inzwischen überholt sein.
 
-Neuestes dokumentiertes Engineering-Update: [12. November 2026](../updates/2026-11-12-public-status_DE.md) · [English](../updates/2026-11-12-public-status.md). Siehe [Engineering-Changelog](../CHANGELOG_DE.md) · [English](../CHANGELOG.md). Der vollständige Dokuabgleich bleibt unten datiert; dieses Update erneuert keine Runtime-Abnahme.
+Neuestes dokumentiertes Engineering-Update: [13. November 2026](../updates/2026-11-13-public-status_DE.md) · [English](../updates/2026-11-13-public-status.md). Siehe [Engineering-Changelog](../CHANGELOG_DE.md) · [English](../CHANGELOG.md). Der vollständige Dokuabgleich bleibt unten datiert; dieses Update erneuert keine Runtime-Abnahme.
 
 ## Umfang des vollständigen Dokuabgleichs
 
