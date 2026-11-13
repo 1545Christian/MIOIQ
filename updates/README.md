@@ -4,12 +4,12 @@ This folder is the dated public development log.
 
 AlgoSphere is now **MIOIQ**. Historical updates are preserved under the name that was current when they were written.
 
-The newest reviewed update should be read together with [CURRENT_STATUS.md](../CURRENT_STATUS.md): the dated update explains what changed, while Current Status is the better place to understand the latest consolidated state.
+The latest documented update should be read together with [CURRENT_STATUS.md](../CURRENT_STATUS.md): the dated update explains what changed, while Current Status is the better place to understand the latest consolidated state.
 
 ## Latest documented engineering update
 
-- [2026-11-12 — English](2026-11-12-public-status.md)
-- [2026-11-12 — Deutsch](2026-11-12-public-status_DE.md)
+- [2026-11-13 — English](2026-11-13-public-status.md)
+- [2026-11-13 — Deutsch](2026-11-13-public-status_DE.md)
 
 This summarizes public release notes; it is not a new runtime or economic acceptance review.
 
