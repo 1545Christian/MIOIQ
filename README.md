@@ -7,7 +7,7 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
-Latest documented engineering update: [November 12, 2026](updates/2026-11-12-public-status.md) · [Deutsch](updates/2026-11-12-public-status_DE.md)<br>
+Latest documented engineering update: [November 13, 2026](updates/2026-11-13-public-status.md) · [Deutsch](updates/2026-11-13-public-status_DE.md)<br>
 Engineering changelog: [English](CHANGELOG.md) · [Deutsch](CHANGELOG_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Support: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
@@ -25,7 +25,7 @@ If you build with AI or evaluate quantitative research, use MIOIQ as a documente
 - Learn why simulated results, trading costs and negative findings matter when judging a research claim.
 - Follow practical lessons from AI-assisted software development, without needing access to the private application.
 
-Start with the [reader guide](docs/START_HERE.md), then compare the [latest documented engineering update](updates/2026-11-12-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
+Start with the [reader guide](docs/START_HERE.md), then compare the [latest documented engineering update](updates/2026-11-13-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
 
 The application remains private, with no public download or open demo. These materials do not establish a profitable trading edge or provide trading signals.
 
@@ -59,16 +59,17 @@ A newer model does not become active simply because it is newer. Promotion is in
 
 ## Recent engineering focus
 
-Recent documented work focuses on:
+Public release notes through v90.8.5.23 R3 document:
 
-- keeping research evaluation and paper execution aligned through a shared, versioned execution contract;
-- checking release artifacts and runtime state before changes are accepted;
-- recovering interrupted state changes and preserving consistent runtime configuration;
-- keeping paper, shadow, watch and reference observations separately attributable;
-- calculating displayed metrics from a consistent snapshot and making incomplete state visible;
-- processing market-history records consistently before they are used in research.
+- a shared, versioned contract aligning research evaluation and paper execution;
+- stronger consistency checks for normalized historical position and fill records;
+- recovery and rollback safeguards for interrupted state changes;
+- clearer separation and attribution across Paper, Shadow, Watch and reference workflows;
+- consistent Paper and Watch metric snapshots that distinguish open positions from realized results;
+- visible warnings for incomplete or inactive runtime states and stronger release-artifact integrity checks;
+- a separate research-candidate path without automatic promotion.
 
-These are engineering and verification improvements. They do not establish profitability or prove that a particular runtime is currently active.
+This is a summary of release documentation, not a new source or runtime acceptance review. It does not establish profitability or live readiness.
 
 ## Current reviewed status
 
