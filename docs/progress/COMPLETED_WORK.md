@@ -97,3 +97,10 @@ Newly documented work covers local candidate checks, Gemini analysis with cost c
 Public release notes v90.8.5.17 through v90.8.5.23 R3 now document stronger alignment between research and Paper workflows through a shared versioned execution contract; consistency checks for historical position/fill records; snapshot-based Paper/Watch metrics that distinguish open from realized results; recovery/rollback safeguards; clearer attribution across Paper, Shadow, Watch and reference workflows; warnings for incomplete/inactive runtime state; and stronger release-artifact integrity checks.
 
 This consolidates release documentation. It does not independently verify current source, loaded runtime, full acceptance, economic performance or live readiness. See the [November 12 update](../../updates/2026-11-12-public-status.md) and [engineering changelog](../../CHANGELOG.md).
+
+
+## November 13 — consolidated release-note summary
+
+The public notes through v90.8.5.23 R3 document a shared versioned contract between research and Paper execution; stronger normalization and consistency checks for historical records; recovery and rollback safeguards; clearer attribution across Paper, Shadow, Watch and reference workflows; snapshot-based metrics distinguishing open from realized results; visible warnings for incomplete runtime states; and stronger release-artifact integrity checks. New research candidates remain separate from active simulated workflows and are not automatically promoted.
+
+This is a summary of existing release documentation, not a new source or runtime acceptance review. It does not close release, economic or live-readiness criteria. See the [November 13 update](../../updates/2026-11-13-public-status.md).
