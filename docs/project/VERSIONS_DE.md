@@ -19,4 +19,4 @@ Diese Seite führt Nachweiskategorien, kein Release-Manifest der privaten Anwend
 
 Private Build-IDs, Pfade und Implementierungs-Fingerprints bleiben unveröffentlicht. Quellen, generierte Artefakte, geladene Prozesse, Consumer und wirtschaftliche Ergebnisse benötigen eigene Nachweise. Ein historischer Bericht bleibt trotz neuem Erstellungsdatum historisch.
 
-[Aktueller Status](../../CURRENT_STATUS_DE.md) · [Neuestes dokumentiertes Update](../../updates/2026-11-12-public-status_DE.md) · [Engineering-Changelog](../../CHANGELOG_DE.md)
+[Aktueller Status](../../CURRENT_STATUS_DE.md) · [Neuestes dokumentiertes Update](../../updates/2026-11-13-public-status_DE.md) · [Engineering-Changelog](../../CHANGELOG_DE.md)
