@@ -13,6 +13,11 @@ The newest reviewed update should be read together with [CURRENT_STATUS.md](../C
 
 This summarizes public release notes; it is not a new runtime or economic acceptance review.
 
+## Previous documented engineering update
+
+- [2026-11-12 — English](2026-11-12-public-status.md)
+- [2026-11-12 — Deutsch](2026-11-12-public-status_DE.md)
+
 ## Previous reviewed update
 
 - [2026-11-03 — English](2026-11-03-public-status.md)
