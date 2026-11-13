@@ -2,12 +2,13 @@
 
 ## Documented engineering updates — v90.8.5.17 to v90.8.5.23 R3
 
-- Aligned research and paper workflows around a shared, versioned execution contract, with checks that reject incompatible artifacts.
-- Improved consistency checks for historical position and fill records before they enter normalized research history.
-- Rebuilt visible paper and watch metrics from a consistent data snapshot and made open positions distinct from realized results.
-- Added recovery and rollback safeguards for interrupted state changes, with stricter validation before runtime changes are accepted.
-- Improved separation and traceability across paper, shadow, watch and reference workflows.
-- Made incomplete or inactive runtime state visible as a warning instead of presenting it as a successful integrity check.
-- Strengthened release-package integrity checks before updates are applied.
+- Research and Paper workflows were aligned around a shared, versioned execution contract, with checks for incompatible artifacts.
+- Historical position and fill records received stronger normalization and consistency checks before use in research.
+- Interrupted state changes gained stronger recovery and rollback safeguards.
+- Paper, Shadow, Watch and reference workflows are more clearly separated and attributable.
+- Paper and Watch metrics are built from consistent snapshots, with open positions distinct from realized results.
+- Incomplete or inactive runtime states are surfaced as warnings rather than successful integrity checks.
+- Release artifacts receive stronger integrity checks before updates are applied.
+- New research candidates remain separate from active simulated workflows and are not automatically promoted.
 
-These notes describe documented engineering changes. They do not claim that every runtime check has been completed, that live trading is enabled, or that profitability has been demonstrated.
+These notes summarize documented engineering work. They do not establish that every change is loaded or fully accepted in a running service, or that profitability or live readiness has been demonstrated.
