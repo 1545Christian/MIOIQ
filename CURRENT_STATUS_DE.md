@@ -2,7 +2,7 @@
 
 English: [CURRENT_STATUS.md](CURRENT_STATUS.md)
 
-Neuestes Dokumentationsupdate: [12. November 2026](updates/2026-11-12-public-status_DE.md) · [English](updates/2026-11-12-public-status.md). Dies ist eine Zusammenfassung öffentlicher Release-Notizen; das unten angegebene Prüfdatum bleibt unverändert und es wird keine neue Runtime-Abnahme behauptet.
+Neuestes Dokumentationsupdate: [13. November 2026](updates/2026-11-13-public-status_DE.md) · [English](updates/2026-11-13-public-status.md). Dies ist eine Zusammenfassung öffentlicher Release-Notizen; das unten angegebene Prüfdatum bleibt unverändert und es wird keine neue Runtime-Abnahme behauptet.
 
 Geprüft: **1. November 2026**. Dieser begrenzte Quellen-/Dokuabgleich ersetzt die Statuszusammenfassung vom 25. Oktober. Er ist keine vollständige Runtime- oder Release-Abnahme.
 
@@ -53,3 +53,8 @@ Siehe [Update vom 3. November](updates/2026-11-03-public-status_DE.md). Frühere
 ## Dokumentationshinweis vom 12. November 2026
 
 Die öffentlichen Release-Notizen v90.8.5.17 bis v90.8.5.23 R3 sind jetzt im [Engineering-Changelog](CHANGELOG_DE.md) und im [datierten Update](updates/2026-11-12-public-status_DE.md) zusammengefasst. Sie dokumentieren gemeinsame Ausführungsvertragsprüfungen, Konsistenz historischer Datensätze, Snapshot-basierte Paper-/Watch-Metriken, Wiederherstellungs- und Rollback-Schutz, Zuordnung getrennter Abläufe, Runtime-Warnungen und Integritätsprüfungen für Release-Artefakte. Diese Zusammenfassung öffentlicher Release-Dokumente ändert das oben genannte Prüfdatum nicht und belegt weder aktuelle Runtime-Abnahme noch Profitabilität oder Live-Bereitschaft.
+
+
+## Dokumentationshinweis vom 13. November 2026
+
+Die öffentlichen Release-Notizen bis v90.8.5.23 R3 sind jetzt ausführlicher im [Engineering-Changelog](CHANGELOG_DE.md) und im [datierten Update](updates/2026-11-13-public-status_DE.md) zusammengefasst. Sie beschreiben eine stärkere Abstimmung von Research und simulierter Ausführung, Konsistenz historischer Datensätze, Wiederherstellungs- und Rollback-Schutz, klarere Zuordnung getrennter Abläufe, Snapshot-basierte Metriken, Runtime-Warnungen und Integritätsprüfungen für Release-Artefakte. Die Release-Notizen belegen keine aktuelle Runtime-Abnahme, Profitabilität oder Live-Bereitschaft. Das Prüfdatum und die offenen Produktkriterien oben bleiben unverändert.
