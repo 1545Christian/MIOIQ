@@ -2,7 +2,7 @@
 
 Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
 
-Latest documentation update: [November 12, 2026](updates/2026-11-12-public-status.md) · [Deutsch](updates/2026-11-12-public-status_DE.md). This is a documentation summary of release notes; the status review date below is unchanged and no new runtime acceptance is implied.
+Latest documentation update: [November 13, 2026](updates/2026-11-13-public-status.md) · [Deutsch](updates/2026-11-13-public-status_DE.md). This is a documentation summary of release notes; the status review date below is unchanged and no new runtime acceptance is implied.
 
 Reviewed: **November 1, 2026**. This bounded source/documentation review supersedes the October 25 current-status summary. It is not a full runtime or release acceptance.
 
@@ -53,3 +53,8 @@ See the [November 3 update](updates/2026-11-03-public-status.md). Earlier sectio
 ## November 12, 2026 documentation note
 
 The public release notes v90.8.5.17 through v90.8.5.23 R3 are now consolidated in the [engineering changelog](CHANGELOG.md) and [dated update](updates/2026-11-12-public-status.md). They document shared execution-contract checks, historical-record consistency, snapshot-based Paper/Watch metrics, recovery and rollback safeguards, workflow attribution, runtime warnings and release-artifact integrity checks. This is a summary of documented release work; it does not change the review date above or establish current loaded-runtime acceptance, profitability or live readiness.
+
+
+## November 13, 2026 documentation note
+
+The public release notes through v90.8.5.23 R3 now have a fuller summary in the [engineering changelog](CHANGELOG.md) and [dated update](updates/2026-11-13-public-status.md). They describe stronger alignment between research and simulated execution, historical-record consistency, recovery and rollback safeguards, clearer workflow attribution, snapshot-based metrics, runtime warnings and release-artifact integrity checks. The release notes do not establish current loaded-runtime acceptance, profitability or live readiness. The review date and open product criteria above remain unchanged.
