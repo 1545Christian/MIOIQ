@@ -117,6 +117,12 @@ Eine spätere Connected Demo ist weiterhin kein Live-Trading. Ein öffentliches/
 
 Live-Readiness bleibt spätere Arbeit hinter kontrollierter Demo-/Stabilitäts-Evidence. Exakte Venue-/Account-Rollout-Reihenfolge bleibt privat.
 
+## Neu dokumentierte Schutzmaßnahmen
+
+Release-Notizen bis v90.8.5.23 R3 beschreiben einen gemeinsamen versionierten Vertrag zwischen Research-Auswertung und Paper-Ausführung; Wiederherstellungs- und Rollback-Schutz bei unterbrochenen Zustandsänderungen; klarere Trennung und Zuordnung von Paper-, Shadow-, Watch- und Referenzabläufen; konsistente Metrik-Snapshots mit Trennung offener Positionen und realisierter Ergebnisse; sowie sichtbare Warnungen bei unvollständigem Runtime-Status. Neue Research-Kandidaten bleiben vom aktiven simulierten Ablauf getrennt und werden nicht automatisch übernommen.
+
+Dies fasst Release-Dokumentation zusammen und belegt weder aktuelles Laufzeitverhalten noch vollständige Abnahme. Siehe das [Update vom 13. November](../../updates/2026-11-13-public-status_DE.md).
+
 ## Warum diese Architektur?
 
 MIOIQ soll eine schwierigere Frage beantworten als nur „kann ein Modell den Preis vorhersagen?“
