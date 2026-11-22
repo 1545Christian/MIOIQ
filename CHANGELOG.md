@@ -1,5 +1,10 @@
 # MIOIQ Engineering Changelog
 
+## Source-code documentation update — November 22, 2026
+
+A high-level review of the private source tree found continued work on installation migration and feature-parity checks, research-candidate lifecycle and evidence tracking, virtual Paper observation, WebUI snapshot integrity, and causal cost-aware research evaluation. This is a source-level summary only: it does not establish loaded runtime behavior, test or end-to-end acceptance, profitability, or live readiness. Private implementation details are not disclosed.
+
+
 ## Documented engineering updates — v90.8.5.17 to v90.8.5.23 R3
 
 - Research and Paper workflows were aligned around a shared, versioned execution contract, with checks for incompatible artifacts.
