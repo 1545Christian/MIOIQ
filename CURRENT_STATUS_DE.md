@@ -63,3 +63,8 @@ Die öffentlichen Release-Notizen bis v90.8.5.23 R3 sind jetzt ausführlicher im
 ## Dokumentationshinweis vom 22. November 2026
 
 Das [datierte Update](updates/2026-11-22-public-status_DE.md) fasst weitere im privaten Quellcode sichtbare Arbeitsbereiche zusammen. Dies sind ausschließlich Quellenbeobachtungen; das Prüfdatum vom 1. November bleibt unverändert. Eine aktuelle Runtime-, Test-, End-to-End- oder Wirtschaftlichkeitsabnahme sowie Live-Bereitschaft wird nicht behauptet.
+
+
+## Dokumentationshinweis vom 22. November 2026
+
+Das [datierte Update](updates/2026-11-22-public-status_DE.md) fasst zusätzliche im privaten Quellcode sichtbare Arbeitsbereiche zusammen. Das Prüfdatum vom 1. November bleibt unverändert. Eine aktuelle Runtime-, Test-, End-to-End-, Wirtschaftlichkeits- oder Live-Abnahme wird nicht behauptet.
