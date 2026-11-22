@@ -2,7 +2,7 @@
 
 Deutsch: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)
 
-Latest documentation update: [November 13, 2026](updates/2026-11-13-public-status.md) · [Deutsch](updates/2026-11-13-public-status_DE.md). This is a documentation summary of release notes; the status review date below is unchanged and no new runtime acceptance is implied.
+Latest documentation update: [November 22, 2026](updates/2026-11-22-public-status.md) · [Deutsch](updates/2026-11-22-public-status_DE.md). This is a high-level source-code summary; the status review date below is unchanged and no new runtime acceptance is implied.
 
 Reviewed: **November 1, 2026**. This bounded source/documentation review supersedes the October 25 current-status summary. It is not a full runtime or release acceptance.
 
@@ -58,3 +58,8 @@ The public release notes v90.8.5.17 through v90.8.5.23 R3 are now consolidated i
 ## November 13, 2026 documentation note
 
 The public release notes through v90.8.5.23 R3 now have a fuller summary in the [engineering changelog](CHANGELOG.md) and [dated update](updates/2026-11-13-public-status.md). They describe stronger alignment between research and simulated execution, historical-record consistency, recovery and rollback safeguards, clearer workflow attribution, snapshot-based metrics, runtime warnings and release-artifact integrity checks. The release notes do not establish current loaded-runtime acceptance, profitability or live readiness. The review date and open product criteria above remain unchanged.
+
+
+## November 22, 2026 documentation note
+
+The [dated update](updates/2026-11-22-public-status.md) summarizes additional areas visible in the private source tree. These source observations do not change the November 1 review date or establish current runtime, test, end-to-end, economic, or live-readiness acceptance.
