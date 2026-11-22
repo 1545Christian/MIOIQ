@@ -8,69 +8,14 @@ The latest documented update should be read together with [CURRENT_STATUS.md](..
 
 ## Latest documented engineering update
 
-- [2026-11-13 — English](2026-11-13-public-status.md)
-- [2026-11-13 — Deutsch](2026-11-13-public-status_DE.md)
+- [2026-11-22 — English](2026-11-22-public-status.md)
+- [2026-11-22 — Deutsch](2026-11-22-public-status_DE.md)
 
-This summarizes public release notes; it is not a new runtime or economic acceptance review.
+This is a high-level source-code summary, not a runtime or economic acceptance review.
 
 ## Previous documented engineering update
 
-- [2026-11-12 — English](2026-11-12-public-status.md)
-- [2026-11-12 — Deutsch](2026-11-12-public-status_DE.md)
+- [2026-11-13 — English](2026-11-13-public-status.md)
+- [2026-11-13 — Deutsch](2026-11-13-public-status_DE.md)
 
-## Previous reviewed update
-
-- [2026-11-03 — English](2026-11-03-public-status.md)
-- [2026-11-03 — Deutsch](2026-11-03-public-status_DE.md)
-
-## Earlier reviewed update
-
-- [2026-11-02 — English](2026-11-02-public-status.md)
-- [2026-11-02 — Deutsch](2026-11-02-public-status_DE.md)
-
-## Previous reviewed updates
-
-- [2026-11-01 — English](2026-11-01-public-status.md)
-- [2026-11-01 — Deutsch](2026-11-01-public-status_DE.md)
-
-- [2026-10-25 — English](2026-10-25-public-status.md)
-- [2026-10-25 — Deutsch](2026-10-25-public-status_DE.md)
-
-- [2026-10-24 — English](2026-10-24-public-status.md)
-- [2026-10-24 — Deutsch](2026-10-24-public-status_DE.md)
-
-- [2026-10-19 — English](2026-10-19-public-status.md)
-- [2026-10-19 — Deutsch](2026-10-19-public-status_DE.md)
-
-- [2026-10-16 — English](2026-10-16-public-status.md)
-- [2026-10-16 — Deutsch](2026-10-16-public-status_DE.md)
-
-
-- [2026-10-12 — English](2026-10-12-public-status.md)
-- [2026-10-12 — Deutsch](2026-10-12-public-status_DE.md)
-
-
-- [2026-10-07 — English](2026-10-07-public-status.md)
-- [2026-10-07 — Deutsch](2026-10-07-public-status_DE.md)
-
-
-- [2026-10-03 — English](2026-10-03-public-status.md)
-- [2026-10-03 — Deutsch](2026-10-03-public-status_DE.md)
-
-- [2026-10-01 — English](2026-10-01-public-status.md)
-- [2026-10-01 — Deutsch](2026-10-01-public-status_DE.md)
-- [2026-09-28 — English](2026-09-28-public-status.md)
-- [2026-09-28 — Deutsch](2026-09-28-public-status_DE.md)
-
-## Earlier updates
-
-Earlier files are kept as historical snapshots. They may contain blockers, versions, names or evidence states that were correct at the time but were later superseded.
-
-For that reason:
-
-- do not treat an old update as the current operating state
-- use [CURRENT_STATUS.md](../CURRENT_STATUS.md) for the latest consolidated status
-- use [Project History](../docs/project/PROJECT_HISTORY.md) for development context
-- use [Evidence Summary](../evidence/EVIDENCE_SUMMARY.md) when interpreting public evidence
-
-The archive is intentionally preserved rather than rewritten so the public development record remains chronological.
+Earlier updates remain historical snapshots. See [CURRENT_STATUS.md](../CURRENT_STATUS.md) for the consolidated status and [Project History](../docs/project/PROJECT_HISTORY.md) for development context.
