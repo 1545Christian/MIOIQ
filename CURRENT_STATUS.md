@@ -63,3 +63,8 @@ The public release notes through v90.8.5.23 R3 now have a fuller summary in the 
 ## November 22, 2026 documentation note
 
 The [dated update](updates/2026-11-22-public-status.md) summarizes additional areas visible in the private source tree. These source observations do not change the November 1 review date or establish current runtime, test, end-to-end, economic, or live-readiness acceptance.
+
+
+## November 22, 2026 documentation note
+
+The [dated update](updates/2026-11-22-public-status.md) summarizes additional areas visible in the private source tree. These observations do not change the November 1 review date or establish runtime, test, end-to-end, economic, or live-readiness acceptance.
