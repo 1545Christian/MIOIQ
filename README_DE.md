@@ -7,7 +7,7 @@ MIOIQ ist ein unabhängiges Research- und Engineering-Projekt rund um AI-gestüt
 
 English: [README.md](README.md)<br>
 Aktueller Status: [CURRENT_STATUS_DE.md](CURRENT_STATUS_DE.md)<br>
-Neuestes dokumentiertes Engineering-Update: [13. November 2026](updates/2026-11-13-public-status_DE.md) · [English](updates/2026-11-13-public-status.md)<br>
+Neuestes dokumentiertes Engineering-Update: [22. November 2026](updates/2026-11-22-public-status_DE.md) · [English](updates/2026-11-22-public-status.md)<br>
 Engineering-Changelog: [Deutsch](CHANGELOG_DE.md) · [English](CHANGELOG.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Unterstützen: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
@@ -25,7 +25,7 @@ Wenn du mit KI entwickelst oder quantitative Forschung beurteilen möchtest, kan
 - Erfahre, warum simulierte Ergebnisse, Handelskosten und negative Befunde bei der Beurteilung von Research-Aussagen wichtig sind.
 - Verfolge praktische Erfahrungen aus der KI-gestützten Softwareentwicklung, ohne Zugang zur privaten Anwendung zu benötigen.
 
-Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste dokumentierte Engineering-Update](updates/2026-11-13-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
+Beginne mit dem [Einstieg](docs/START_HERE_DE.md) und vergleiche das [neueste dokumentierte Engineering-Update](updates/2026-11-22-public-status_DE.md) mit den [aktuellen Grenzen](CURRENT_STATUS_DE.md). Die öffentliche Dokumentation ist kostenlos lesbar. Auf [Ko-fi](https://ko-fi.com/mioiq) kannst du kürzere Research-Updates verfolgen und die Entwicklung, Tests und verständlichere Dokumentation freiwillig unterstützen.
 
 Die Anwendung bleibt privat; einen öffentlichen Download oder eine offene Demo gibt es nicht. Die Inhalte belegen keinen profitablen Trading-Vorteil und bieten keine Trading-Signale.
 
@@ -59,7 +59,7 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 
 ## Neu dokumentierte technische Updates
 
-Öffentliche Release-Notizen bis v90.8.5.23 R3 beschreiben:
+Frühere öffentliche Release-Notizen bis v90.8.5.23 R3 beschreiben:
 
 - einen gemeinsamen, versionierten Vertrag zur Abstimmung von Research-Auswertung und Paper-Ausführung;
 - stärkere Konsistenzprüfungen für normalisierte historische Positions- und Fill-Datensätze;
@@ -69,7 +69,7 @@ Ein neueres Modell wird nicht allein deshalb aktiv, weil es neuer ist. Promotion
 - sichtbare Warnungen bei unvollständigem oder inaktivem Runtime-Status und stärkere Integritätsprüfungen für Release-Artefakte;
 - einen getrennten Research-Kandidatenpfad ohne automatische Übernahme.
 
-Das ist eine Zusammenfassung der Release-Dokumentation und keine neue Quellen- oder Runtime-Abnahme. Profitabilität und Live-Bereitschaft werden dadurch nicht belegt.
+Das [Quellcode-Update vom 22. November](updates/2026-11-22-public-status_DE.md) fasst spätere Engineering-Bereiche aus dem privaten Quellcode allgemein zusammen. Diese Quellenbefunde belegen weder Runtime- oder Testabnahme noch Profitabilität oder Live-Bereitschaft.
 
 ## Aktuell geprüfter Stand
 
@@ -123,7 +123,8 @@ Siehe [Umfang des öffentlichen Repositorys](docs/project/PUBLIC_REPOSITORY_SCOP
 - [Projektrichtung](docs/project/PROJECT_DIRECTION_DE.md)
 - [Aktueller Status](CURRENT_STATUS_DE.md)
 - [Engineering-Changelog](CHANGELOG_DE.md)
-- [Update vom 12. November](updates/2026-11-12-public-status_DE.md)
+- [Neuestes Update vom 22. November](updates/2026-11-22-public-status_DE.md)
+- [Update vom 13. November](updates/2026-11-13-public-status_DE.md)
 - [Update vom 3. November](updates/2026-11-03-public-status_DE.md)
 - [Roadmap](docs/progress/ROADMAP_DE.md)
 - [Dokumentierte Arbeiten](docs/progress/COMPLETED_WORK_DE.md)
