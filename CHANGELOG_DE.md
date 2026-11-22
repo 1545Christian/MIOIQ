@@ -1,5 +1,10 @@
 # MIOIQ Engineering-Changelog
 
+## Quellcode-Dokumentationsupdate — 22. November 2026
+
+Eine allgemeine Prüfung des privaten Quellcodebestands zeigt weitere Arbeiten an Installationsmigration und Funktionsparität, Research-Kandidaten-Lifecycle und Evidence-Zuordnung, virtueller Paper-Beobachtung, WebUI-Snapshot-Integrität sowie zeitkausaler kostenbewusster Research-Evaluierung. Dies sind Quellenbefunde; sie belegen weder geladenes Runtime-Verhalten noch Test- oder End-to-End-Abnahme, Profitabilität oder Live-Bereitschaft. Private Implementierungsdetails werden nicht veröffentlicht.
+
+
 ## Dokumentierte technische Updates — v90.8.5.17 bis v90.8.5.23 R3
 
 - Research- und Paper-Abläufe wurden über einen gemeinsamen, versionierten Ausführungsvertrag abgestimmt; Prüfungen erkennen inkompatible Artefakte.
