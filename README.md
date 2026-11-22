@@ -7,7 +7,7 @@ MIOIQ is an independent research and engineering project exploring AI-assisted q
 
 Deutsch: [README_DE.md](README_DE.md)<br>
 Current status: [CURRENT_STATUS.md](CURRENT_STATUS.md) · [Deutsch](CURRENT_STATUS_DE.md)<br>
-Latest documented engineering update: [November 13, 2026](updates/2026-11-13-public-status.md) · [Deutsch](updates/2026-11-13-public-status_DE.md)<br>
+Latest documented engineering update: [November 22, 2026](updates/2026-11-22-public-status.md) · [Deutsch](updates/2026-11-22-public-status_DE.md)<br>
 Engineering changelog: [English](CHANGELOG.md) · [Deutsch](CHANGELOG_DE.md)<br>
 Telegram: https://t.me/+BXzjABr9iQpjMTgy<br>
 Support: [GitHub Sponsors](https://github.com/sponsors/1545Christian) · [Ko-fi](https://ko-fi.com/mioiq)<br>
@@ -25,7 +25,7 @@ If you build with AI or evaluate quantitative research, use MIOIQ as a documente
 - Learn why simulated results, trading costs and negative findings matter when judging a research claim.
 - Follow practical lessons from AI-assisted software development, without needing access to the private application.
 
-Start with the [reader guide](docs/START_HERE.md), then compare the [latest documented engineering update](updates/2026-11-13-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
+Start with the [reader guide](docs/START_HERE.md), then compare the [latest documented engineering update](updates/2026-11-22-public-status.md) with the [current limitations](CURRENT_STATUS.md). Public documentation is free to read. On [Ko-fi](https://ko-fi.com/mioiq), you can follow shorter research updates and optionally support development, testing and clearer documentation.
 
 The application remains private, with no public download or open demo. These materials do not establish a profitable trading edge or provide trading signals.
 
@@ -59,7 +59,7 @@ A newer model does not become active simply because it is newer. Promotion is in
 
 ## Recent engineering focus
 
-Public release notes through v90.8.5.23 R3 document:
+Earlier public release notes through v90.8.5.23 R3 document:
 
 - a shared, versioned contract aligning research evaluation and paper execution;
 - stronger consistency checks for normalized historical position and fill records;
@@ -69,7 +69,7 @@ Public release notes through v90.8.5.23 R3 document:
 - visible warnings for incomplete or inactive runtime states and stronger release-artifact integrity checks;
 - a separate research-candidate path without automatic promotion.
 
-This is a summary of release documentation, not a new source or runtime acceptance review. It does not establish profitability or live readiness.
+The [November 22 source-code update](updates/2026-11-22-public-status.md) summarizes later engineering areas visible in the private source tree. These source observations do not establish runtime or test acceptance, profitability, or live readiness.
 
 ## Current reviewed status
 
@@ -121,7 +121,7 @@ See [Public Repository Scope](docs/project/PUBLIC_REPOSITORY_SCOPE.md) and [Lice
 | Project direction | [docs/project/PROJECT_DIRECTION.md](docs/project/PROJECT_DIRECTION.md) |
 | Public repository scope | [docs/project/PUBLIC_REPOSITORY_SCOPE.md](docs/project/PUBLIC_REPOSITORY_SCOPE.md) |
 | Current status | [CURRENT_STATUS.md](CURRENT_STATUS.md) |
-| Latest reviewed update | [November 3 update](updates/2026-11-03-public-status.md) |
+| Latest documented update | [November 22 update](updates/2026-11-22-public-status.md) |
 | Public engineering changelog | [CHANGELOG.md](CHANGELOG.md) |
 | Roadmap | [docs/progress/ROADMAP.md](docs/progress/ROADMAP.md) |
 | Completed engineering work | [docs/progress/COMPLETED_WORK.md](docs/progress/COMPLETED_WORK.md) |
